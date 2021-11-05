@@ -1,6 +1,6 @@
 The4K Words
 ===========
-4k essential english words in AwesomeWM_ wibar.
+4k essential english words in AwesomeWM_ wibar (One word per minute).
 
 .. image:: screenshot.png
 
