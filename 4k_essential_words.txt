@@ -47,7 +47,7 @@ describe - [dɪˈskraɪb] v. | To describe is to say or write what someone or so
 ever - [ˈɛvər] adv. | Ever means at any time. → Going skiing last winter was the most fun I've ever had.
 fail - [feɪl] v. | To fail means you do not succeed in what you try to do. → Since he failed to get the job, he was sad.
 friendly - [ˈfrɛndlɪ] adj. | Friendly is behaving in a pleasant, kind way toward someone. → The friendly animals came up to the girl.
-grade - [ɡreɪd] n. | A grade is a score or mark given to someone’s work. → I managed to get good grades on my report card.
+grade - [ɡreɪd] n. | A grade is a score or mark given to someone's work. → I managed to get good grades on my report card.
 instead - [inˈsted] adv. | Instead means in place of. → He ate the carrot instead of the ice cream.
 library - [ˈlaibrəri] n. | A library is a place where you go to read books. → The library at school is full of books.
 planet - [ˈplænət] n. | A planet is a large round thing in space. → Saturn is the planet with the ring around it.
@@ -70,7 +70,7 @@ habit - [ˈhabɪt] n. | A habit is a thing that you do often. → Smoking is a b
 instruct - [ɪnˈstrʌkt] v. | To instruct is to teach. → My teacher instructs us in several subjects.
 issue - [ˈɪʃuː] n. | An issue is an important topic. → The men spoke about issues that were important to the people.
 none - [nəʊn] pron. | None means not any of someone or something. → He spent all his money. There is none left.
-patient - [ˈpeɪʃ(ə)nt] adj. | If a person is patient, they don’t become angry or upset easily. → I had to be patient and wait until 5 o'clock to leave.
+patient - [ˈpeɪʃ(ə)nt] adj. | If a person is patient, they don't become angry or upset easily. → I had to be patient and wait until 5 o'clock to leave.
 positive - [ˈpɒzɪtɪv] adj. | If something is positive, it is good. → She has a positive future ahead of her after finishing college.
 punish - [ˈpʌnɪʃ] v. | To punish means to make someone suffer for breaking the rules or laws. → To punish me, my teacher had me stand in the corner.
 represent - [rɛprɪˈzɛnt] v. | To represent is to speak or act for a person or group. → My lawyer will represent me in court.
@@ -93,7 +93,7 @@ rare - [rɛː] adj. | If something is rare, you do not see it very often. → It
 relax - [rɪˈlaks] v. | To relax is to rest. → The frog relaxed in the warm sun.
 request - [rɪˈkwɛst] v. | To request something is to ask for it. → The little girl requested a special gift from Santa Claus.
 reside - [rɪˈzʌɪd] v. | To reside means to live somewhere permanently or for a long time. → My brother and his family reside in a lovely house on the beach.
-result - [rɪˈzʌlt] n. | A result is something that happens because of something else. → Asa result of all the rain, the man had to climb on the roof.
+result - [rɪˈzʌlt] n. | A result is something that happens because of something else. → As a result of all the rain, the man had to climb on the roof.
 roll - [rəʊl] v. | To roll is to move by turning over and over. → You must roll the ball into the pins when you bowl.
 since - [sɪns] prep. | Since is used to talk about a past event still happening now. → Since 1992, he has been driving that car.
 visible - [ˈvɪzɪb(ə)l] adj. | If something is visible, it can be seen. → The moon and stars were visible in the night sky.
@@ -129,7 +129,7 @@ difference - [ˈdɪf(ə)r(ə)ns] n. | A difference is a way that something is no
 divide - [dɪˈvʌɪd] v. | To divide something is to make it into smaller parts. → We divided the pizza.
 expert - [ˈɛkspəːt] n. | An expert is someone who is very good at doing something. → The wizard was an expert at magic.
 famous - [ˈfeɪməs] adj. | If someone or something is famous, they are known to many people. → The Eiffel Tower in Paris is very famous.
-force - [fɔːs] n. | Force is a person’s strength or power. → He used all his force to try and open the door.
+force - [fɔːs] n. | Force is a person's strength or power. → He used all his force to try and open the door.
 harm - [hɑːm] n. | Harm is hurt or problems caused to someone or something. → A hot iron can cause great harm if you are not careful.
 lay - [leɪ] v. | To lay means to put or place in a horizontal or flat position. → Don't lay your socks on the floor.
 peace - [piːs] n. | Peace is a time without war. → A white dove is a symbol for peace.
@@ -196,7 +196,7 @@ remain - [rɪˈmeɪn] v. | To remain somewhere is to stay there. → My sister h
 rest - [rɛst] v. | To rest is to stop being active while the body gets back its strength. → I rested on the couch after work.
 separate - [ˈsepəreit] v. | If two things are separate, they are not together. → New York and Los Angeles are in two separate parts of America.
 site - [saɪt] n. | A site is a place. → We found the perfect site for our picnic.
-tail - [teɪl] n. | A tail is a part of an animal’s body, sticking out from its rear or back. → Our dog wags its tail when it's happy.
+tail - [teɪl] n. | A tail is a part of an animal's body, sticking out from its rear or back. → Our dog wags its tail when it's happy.
 trouble - [ˈtrʌbəl] n. | Trouble is a problem ora difficulty. → I have trouble working with my boss.
 anymore - [ēnimɔ:r] adv. | Anymore means any longer. → Her old pants don't fit her anymore.
 asleep - [əˈsliːp] adj. | When a person is asleep, they are not awake. → The baby has been asleep for hours.
@@ -222,7 +222,7 @@ alone - [əˈləʊn] adj. | If someone is alone, they are not with another perso
 apartment - [əˈpaːtmənt] n. | An apartment is a set of rooms in a building where people live. → She has a nice apartment in the city.
 article - [ˈaːtikl] n. | An article is a story in a newspaper or magazine. → Did you read the article in the newspaper about the soccer game?
 artist - [ˈɑːtɪst] n. | An artist is a person who paints, draws, or makes sculptures. → He went to Paris to become an artist.
-attitude - [ˈӕtitjuːd] n. | Someone’s attitude is the way they feel and think. → John has a bad attitude. He's always angry.
+attitude - [ˈӕtitjuːd] n. | Someone's attitude is the way they feel and think. → John has a bad attitude. He's always angry.
 compare - [kəmˈpɛː] v. | To compare means to say how two things are the same and different. → If you compare cats and dogs, you'll see that they're both good pets.
 judge - [dʒʌdʒ] v. | To judge something is to say if it is good or bad. → The boy was going to judge how his mother's turkey tasted.
 magazine - [maɡəˈziːn] n. | A magazine is a regular publication with news, stories, and articles. → She likes to read fashion magazines.
@@ -542,7 +542,7 @@ band - [band] n. | A band is a group of people who play music. → My brother is
 barely - [ˈbɛːli] adv. | Barely means by the smallest amount, almost not. → I barely had enough money to pay for my bus ticket.
 boring - [ˈbɔːrɪŋ] adj. | If something is boring, it is not fun. → I think the Internet is boring.
 cancel - [ˈkans(ə)l] v. | To cancel means to decide that an event or a request will not happen. → She cancelled the rest of her plans because of the rain.
-driveway - [ˈdrʌɪvweɪ] n. | A driveway is a short private road that leads to a person’s home. → The long driveway led us to their new house.
+driveway - [ˈdrʌɪvweɪ] n. | A driveway is a short private road that leads to a person's home. → The long driveway led us to their new house.
 garbage - [ˈɡɑːbɪdʒ] n. | Garbage is waste material like unwanted or spoiled food, bottles, paper, etc. → The boy cleaned up the garbage around his house.
 instrument - [ˈɪnstrʊm(ə)nt] n. | An instrument is something designed to do a certain task like music. → My favorite musical instrument is the piano.
 list - [lɪst] n. | A list is a record of information printed with an item on each line. → My mom makes a list of groceries to buy.
@@ -615,7 +615,7 @@ polite - [pəˈlaɪt] adj. | When someone is polite, they are acting in a though
 possess - [pəˈzes] v. | To possess something is to have it or own it. → My uncle possesses three sheep, a chicken, a cow and a dog.
 rapidly - ˈræpɪdlɪ] adv. | When something happens rapidly, it happens very fast. → The train moved rapidly on the tracks.
 remark - [rɪˈmɑːrk] v. | To remark is to say something. → The teacher remarked on how quickly the students were learning.
-seek - [siːk] v. | To seek is to look for something. → If I have a problem, I seek my sister's advice.<br />
+seek - [siːk] v. | To seek is to look for something. → If I have a problem, I seek my sister's advice.
 shine - [ʃaɪn] v. | To shine is to make a bright light. → The candles are shining in the dark room.
 spill - [spɪl] v. | To spill is to have something fall out of its container. → I spilled the coffee on the table.
 bring - [brɪŋ] v. | To bring means to take someone or something to a person or place. → Oscar will bring in all the boxes.
@@ -658,9 +658,9 @@ trust - [trʌst] v. | To trust is to believe that someone is honest and will do 
 twist - [twɪst] v. | To twist something is to wrap it around itself or another thing. → She twisted the spaghetti around her fork.
 unless - [ənˈles] conj. | Unless means if not or except when. → Unless you clean your room, you cannot play with your friends.
 weapon - [ˈwepən] n. | A weapon is an object that can be used to hurt people. → Swords have been used as weapons for thousands of years.
-chest - [tʃest] n. | The chest is the front part of a person’s body under the neck. → The water in the lake was as high as my chest.
+chest - [tʃest] n. | The chest is the front part of a person's body under the neck. → The water in the lake was as high as my chest.
 confidence - [ˈkɒnfɪdəns] n. | If you have confidence about something, you are sure of it. → I have confidence that I did well on the test.
-consequence - [ˈkɒnsɪkwəns] n. | A consequence is a result of a choice or action. → Asa consequence of missing my bus, I had to find another way to work.
+consequence - [ˈkɒnsɪkwəns] n. | A consequence is a result of a choice or action. → As a consequence of missing my bus, I had to find another way to work.
 disaster - [dɪˈzæs tər] n. | A disaster is a really bad thing that happens. → When the car crashed, it was a disaster.
 disturb - [diˈstəːrb] v. | To disturb someone means to upset them. → The loud noise disturbed me while I was working.
 estimate - [ˈɛstəmeɪt] v. | To estimate something means to make a guess about it. → The boy estimated that he was one meter tall.
@@ -695,7 +695,7 @@ senior - [ˈsiːnjər] adj. | If one is senior, they are the oldest or have been
 silent - [ˈsaɪlənt] adj. | If someone or something is silent, they make no sound. → Since no one was home, the house was silent.
 sink - [sɪŋk] v. | To sink into something is to slowly fall into it. → The boat had a hole in it, and it sank into the ocean.
 superior - [səˈpɪəriər] adj. | If someone or something is superior, they are better than another. → I think cooking outdoors is superior to cooking indoors.
-surround - [səˈraʊnd] v. | To surround something is to close in on it from all sides. → We surrounded the suspect on all four sides.<br />
+surround - [səˈraʊnd] v. | To surround something is to close in on it from all sides. → We surrounded the suspect on all four sides.
 thick - [θɪk] adj. | If something is thick, it is wide and solid. → The fog was so thick that I couldn't see through it.
 wrap - [ræp] v. | To wrap is to cover something on all sides. → I wrapped his gift and put a bow on it.
 abroad - [əˈbrɔːd] adv. | If someone goes or travels abroad, they go to another country. → My brother wants to go abroad next year.
@@ -717,8 +717,8 @@ permit - [pərˈmɪt] v. | To permit something is to let someone do it. → I wa
 protest - [prəˈtest] v. | To protest something is to argue about it with someone. → The people protested the decision of the president.
 sculpture - [ˈskʌlptʃə:r] n. | A sculpture is a piece of art that is made from wood, clay, or stone. → We saw an old sculpture of Buddha at the museum.
 tribe - [traɪb] n. | A tribe is a group of people who live in the same culture. → There's a small tribe of people who live in the mountains of Spain.
-youth - [juːθ] n. | Youth is a time in people’s lives when they are young. → My mother wanted to be a nurse in her youth.
-basis - [ˈbeɪsɪs] n. | To do something on time’s basis is how often you do it. → My grandfather gets his hearing checked on a yearly basis.
+youth - [juːθ] n. | Youth is a time in people's lives when they are young. → My mother wanted to be a nurse in her youth.
+basis - [ˈbeɪsɪs] n. | To do something on time's basis is how often you do it. → My grandfather gets his hearing checked on a yearly basis.
 biology - [baɪˈɒlədʒɪ] n. | Biology is the study of living things. → We learned about the human heart in biology class.
 cage - [keɪdʒ] n. | A cage is something that holds an animal so it cannot leave. → We put the parrots in their cage at night.
 colleague - [ˈkɒliːg] n. | A colleague is somebody you work with. → My colleague helped me finish the job.
@@ -730,7 +730,7 @@ factual - [ˈfæktjʊəl] adj. | When something is factual, it is true. → John
 fascinate - [ˈfæsəˌneɪt] v. | To fascinate someone is to make them really like something. → The kitten was fascinated by the ball of yarn.
 mission - [ˈmɪʃən] n. | A mission is an important job that is sometimes far away. → The woman's mission was to help sick people.
 nevertheless - [ˌnevəðəˈles] adv. | You use nevertheless to show that something goes against a fact. → He is usually friendly. Nevertheless, he wasn't this afternoon.
-occupation - [ˌɒkjʊˈpeɪʃən] n. | An occupation is a person’s job. → My father's occupation is a dentist.
+occupation - [ˌɒkjʊˈpeɪʃən] n. | An occupation is a person's job. → My father's occupation is a dentist.
 overseas - [ˌəʊvəˈsiːz] adv. | If you go overseas, you go to a country on the other side of an ocean. → John often goes overseas for vacations.
 persuade - [pəˈsweɪd] v. | To persuade someone is to make them agree to do something. → The children persuaded their parents to buy them gifts.
 route - [ruːt] n. | A route is the way you go from one place to another. → I saw many new houses along the route to the city.
@@ -762,10 +762,10 @@ admire - [ədˈmaɪə:r] v. | To admire someone is to like them for what they do
 aid - [eɪd] v. | To aid someone is to help them when they need something. → The doctor aided the boy after his accident.
 attempt - [əˈtempt] v. | To attempt something is to try to do that thing. → I am attempting to learn English.
 authority - [əˈθɒːrətɪ] n. | Authority is the power that someone has because of their position. → The policeman has authority on the streets.
-capital - [ˈkæpɪtl] n. | A capital is an important city where a country’s leaders live and work. →  We will visit the capital to learn about our government.
+capital - [ˈkæpɪtl] n. | A capital is an important city where a country's leaders live and work. →  We will visit the capital to learn about our government.
 cooperate - [koʊˈɒpəreɪt] v. | To cooperate is to work together to do something. → The students cooperated to clean up the classroom.
 defend - [dɪˈfend] v. | To defend someone or something is to protect them from attack. → The soldiers defended the town from the invaders.
-destruction - [dɪsˈtrʌkʃən] n. | Destruction is damage to something so bad that it can’t be fixed. → After the big fire, there was much destruction in the city.
+destruction - [dɪsˈtrʌkʃən] n. | Destruction is damage to something so bad that it can't be fixed. → After the big fire, there was much destruction in the city.
 disorder - [dɪsˈɔːrdər] n. | Disorder is a lack of order, or a complete mess. → The teacher's desk had many papers in disorder.
 division - [dɪˈvɪʒən] n. | A division is the act of making smaller groups out of a larger one. → The chart had six divisions which all had different colors.
 enable - [ɪˈneɪbl] v. | To enable a person is to make it possible for them to do something. → Having the key enabled us to open the door.
@@ -925,7 +925,7 @@ carriage - [ˈkærɪdʒ] n. | A carriage is a vehicle pulled by a horse. → We 
 classic - [ˈklæsɪk] adj. | If something is classic, it is typical. → The athlete made a classic mistake-he started running too soon.
 commute - [kəˈmjuːt] v. | To commute is to travel a long distance to get to work. → I usually commute to work on the train.
 confirm - [kənˈfəːrm] v. | To confirm is to make sure something is correct. → Winning the game confirmed that James was a good player.
-criticize - [ˈkrɪtɪsaɪz] v. | To criticize is to say you do not like someone or something. → He criticized his wife forspending too much money.
+criticize - [ˈkrɪtɪsaɪz] v. | To criticize is to say you do not like someone or something. → He criticized his wife for spending too much money.
 differ - [ˈdɪfər] v. | To differ is to not be the same as another person or thing. → I differ from my brother: he is short, while I am tall.
 expense - [ɪksˈpens] n. | An expense is the money that people spend on something. → She wrote down all the expenses for her trip.
 formal - [ˈfɔːrməl] adj. | If something is formal, it is done in an official way. → It was a formal dinner, so we wore our best clothes.
@@ -946,7 +946,7 @@ convince - [kənˈvɪns] v. | To convince someone means to make them sure of som
 curious - [ˈkjʊərɪəs] adj. | When you are curious about something, you want to know more about it. → I opened up the clock because I was curious about how it worked.
 delay - [dɪˈleɪ] v. | To delay means to wait to do something. → I was delayed at the airport for over two hours.
 diary - [ˈdaɪərɪ] n. | A diary is a book in which people write their personal experiences. → I do not let anybody read my diary.
-element - [ˈeləmənt] n. | An element of something is a particular part of it. → Tackling an opponent is Johnny's favorite element of American footbal.
+element - [ˈeləmənt] n. | An element of something is a particular part of it. → Tackling an opponent is Johnny's favorite element of American football.
 faith - [feɪθ] n. | When people have faith in something, they believe in it and trust it. → The sick girl had faith in doctors. She knew they would make her better.
 grain - [greɪn] n. | Grain is food crops such as wheat, corn, rice or oats. → The farmer planted two fields of grain this year.
 greet - [griːt] v. | To greet someone means to meet and welcome them. → When my friend came over, I greeted him at the door.
@@ -957,8 +957,8 @@ monk - [mʌŋk] n. | A monk is a religious person who lives a simple life. → T
 odd - [ɒd] adj. | When something is odd, it is unusual. → Her cat is odd. It walks on two feet.
 pause - [pɔːz] v. | To pause means to stop doing something for a while. → Since she was so hungry, she paused to make a snack.
 priest - [priːst] n. | A priest is a person trained to perform religious duties. → The priest taught us about God.
-profession - [prəˈfeʃən] n. | A profession is a person’s job. → He loved sailing, so he chose to work on ships as a profession.
-adopt - [əˈdɒpt] v. | To adopt someone is to make them as a part of one’s own family. → The girl was adopted by the couple when she was three.
+profession - [prəˈfeʃən] n. | A profession is a person's job. → He loved sailing, so he chose to work on ships as a profession.
+adopt - [əˈdɒpt] v. | To adopt someone is to make them as a part of one's own family. → The girl was adopted by the couple when she was three.
 beg - [beg] v. | To beg is to ask for something one really wants. → The man begged for some money.
 beyond - [bɪˈjɒnd] prep. | If A is beyond B, A is farther away. → John's house is beyond that lake.
 costume - [ˈkɒstjuːm] n. | A costume is a set of clothes people wear for a particular occasion. → The woman wore a mask with her costume.
@@ -977,7 +977,7 @@ reception - [rɪˈsepʃən] n. | A reception is a party to welcome a person or c
 reject - [rɪˈdʒekt] v. | To reject is to refuse something because you do not want it. → The girl rejected the broken cup.
 silence - [ˈsaɪləns] n. | Silence is complete quiet. → The man asked for silence while he worked on the problem.
 stream - [striːm] n. | A stream is a small river. → The boy caught a fish in the stream.
-tone - [təʊn] n. | Tone is the sound of someone’s voice. It shows how they feel. → My father's tone told me I had broken the rule.
+tone - [təʊn] n. | Tone is the sound of someone's voice. It shows how they feel. → My father's tone told me I had broken the rule.
 accomplish - [əˈkʌmplɪʃ] v. | To accomplish something means to finish it. → He accomplished his goal of running ten miles.
 approve - [əˈpruːv] v. | To approve of something means you like it or are happy about it. → Her co-workers approved her new plan.
 approximate - [əˈprɒksəmɪt] adj. | Approximate means to be close to an exact amount, number or time. → My approximate height is two meters.
@@ -992,7 +992,7 @@ insert - [inˈsəːrt] v. | To insert something means to put it in something els
 instant - [ˈɪnstənt] n. | An instant is a very short amount of time. → A microwave oven cooks food in an instant.
 poverty - [ˈpɒvətɪ] n. | Poverty is the state of being poor. → Poverty is a problem in many countries around the world.
 pretend - [prɪˈtend] v. | To pretend means to make believe something is real. → The boy liked to pretend he was a king.
-rank - [ræŋk] n. | A person’s rank is their place in an order of people. → The man got to the rank of captain in the navy.
+rank - [ræŋk] n. | A person's rank is their place in an order of people. → The man got to the rank of captain in the navy.
 recognition - [ˌrekəgˈnɪʃən] n. | Recognition is getting praise from other people. → The hero got recognition for his brave deed.
 refrigerate - [rɪˈfrɪdʒəreɪt] v. | To refrigerate something means to make it cold. → Grocery stores refrigerate fruit to make it last long.
 rent - [rent] n. | Rent is the money people pay to someone to live in a certain place. → To live in this house, I have to pay rent at the start of each month.
@@ -1010,7 +1010,7 @@ mineral - [ˈmɪnərəl] n. | A mineral is a type of substance found in the Eart
 participate - [pɑ:rtɪsəpeɪt] v. | To participate is to take part in something. → The students participated in the school play.
 permission - [pə:rmɪʃən] n. | Permission means the act of allowing the doing of something. → I have permission to drive my mom's car.
 pour - [pɔːr] | To pour a liquid means to make it come out of a container. → I poured some milk into my sister's cup.
-presence - [ˈprɛzəns] n. | Someone or something’s presence is the fact they are there. → The presence of dark clouds meant it would rain.
+presence - [ˈprɛzəns] n. | Someone or something's presence is the fact they are there. → The presence of dark clouds meant it would rain.
 raw - [rɔː] adj. | If a material is raw, it is natural and has not been processed. → The company dumped raw sewage into the river.
 satellite - [ˈsætəlaɪt] n. | A satellite is something that is sent into space to get information. → The satellite was traveling around the earth.
 scale - [skeɪl] n. | The scale of something is its size, especially when it is very large. → I was surprised by the scale of the buildings in the downtown area.
@@ -1023,7 +1023,7 @@ apart - [əˈpɑːrt] adv. | When people or things are apart, they are not close
 arrest - [əˈrest] v. | To arrest someone means to catch them for doing something bad. → The man was arrested for breaking the law.
 award - [əˈwɔːrd] n. | An award is a prize someone gets for doing something well. → He got an award for having the best grades in class.
 breed - [briːd] n. | A breed is a group of animals within a species. → I like small dog breeds, such as terriers.
-bucket - [ˈbʌkɪt] n. | A bucket is a round containerto put things in. → I filled the bucket with water.
+bucket - [ˈbʌkɪt] n. | A bucket is a round container to put things in. → I filled the bucket with water.
 contest - [ˈkɒntest] n. | A contest is a game or a race. → The girls had a contest to see who could jump higher.
 convict - [kənˈvikt] v. | To convict someone means to prove that they did a bad thing. → He was convicted of the crime and sent to jail.
 garage - [gəˈrɑ:ʒ] n. | A garage is the part of a house where people put their cars. → My car does not get dirty because I keep it in the garage.
@@ -1037,7 +1037,7 @@ slip - [slɪp] v. | To slip means to slide and fall down. → The man slipped on
 somewhat - [ˈsʌmwɒt] adv. | Somewhat means to some degree, but not to a large degree. → James was somewhat upset when he had to move some boxes.
 stable - [ˈsteɪbl] adj. | When something is stable, it will not fall over. → The chair is stable. Its legs are strong.
 tissue - [ˈtɪʃuː] n. | A tissue is a soft piece of paper people use to wipe their noses. → There was a box of tissue on the table.
-yard - [jɑːrd] n. | A yard is the ground just outside of a person’s house. → The girls jumped rope in the yard.
+yard - [jɑːrd] n. | A yard is the ground just outside of a person's house. → The girls jumped rope in the yard.
 alike - [əˈlaɪk] adj. | If two things or people are alike, they are similar in some way. → People often think my sister and I look alike.
 annoy - [əˈnɔɪ] v. | To annoy someone means to bother them. → The flies buzzing around John's head annoyed him very much.
 architecture - [ˈɑːrkətektʃər] n. | Architecture is the style or way a building is made. → The architecture of the church is amazing.
@@ -1072,8 +1072,8 @@ marvel - [ˈmɑːrvəl] v. | To marvel at something is to feel surprise and inte
 nutrient - [ˈnjuːtrɪənt] n. | A nutrient is something that a living thing needs to keep it alive. → Vegetables are full of important nutrients.
 overcome - [ˌəʊvəˈkʌm] v. | To overcome a problem is to successfully fix it. → She overcame her shyness and spoke in front of the class.
 recall - [rɪˈkɔːl] v. | To recall something is to remember it. → She was trying to recall what she had told her friend.
-regret - [rɪˈgret] v. | To regret something is to wish that it didn’t happen. → I regret that I was mean to my sister.
-soul - [soʊl] n. | A soul is a person’s spirit. → Some people believe that the soul lives after the body dies.
+regret - [rɪˈgret] v. | To regret something is to wish that it didn't happen. → I regret that I was mean to my sister.
+soul - [soʊl] n. | A soul is a person's spirit. → Some people believe that the soul lives after the body dies.
 sufficient - [səˈfɪʃənt] adj. | When something is sufficient, you have enough of it. → After eating a sufficient amount of food, I left the table.
 surgery - [ˈsəːrdʒərɪ] n. | Surgery is medical treatment when the doctor cuts open your body. → I needed surgery to repair my leg after the accident.
 tough - [tʌf] adj. | If something is tough, it is difficult. → The man passed his driving test even though it was very tough.
@@ -1086,7 +1086,7 @@ cash - [kæʃ] n. | Cash is money in the form of paper or coins. → I was able 
 criminal - [ˈkrɪmənl] n. | A criminal is a person who does something against the law. → The police made sure the criminal couldn't move his hands.
 dozen - [ˈdʌzən] n. | A dozen is a group of twelve things. → Mom brought home a dozen donuts for us as a treat.
 elder - [ˈeldər] adj. | An elder is a person who is older than the people around them. → Uncle Ray is my elder so I always try to be respectful.
-facial - [ˈfeɪʃəl] adj. | If something is facial, it is related to a person’s face. → I could tell from his facial features that he was angry.
+facial - [ˈfeɪʃəl] adj. | If something is facial, it is related to a person's face. → I could tell from his facial features that he was angry.
 fence - [fens] n. | A fence is a structure around a house or field. → The farmer put up a fence so that no one could walk on her field.
 inspire - [ɪnˈspaɪər] v. | To inspire means to make a person want to do something. → I was inspired to write a poem after watching the sunrise.
 mere - [mɪər] adj. | When something is mere, it is small or not important. → We lost the game by a mere two points.
@@ -1141,7 +1141,7 @@ witch - [wɪtʃ] n. | A witch is a woman with magical powers. → People think t
 accompany - [əˈkʌmpənɪ] v. | To accompany other people means to join them or go with them. → My brothers accompanied me to the movie.
 bare - [bɛər] adj. | When something is bare, it is plain. It has no covering. → He likes to walk around in his bare feet.
 branch - [bræntʃ] n. | A branch is the part of a tree with leaves. → The monkey was hanging from a branch on the tree.
-breath - [breθ] n. | A breath is the air that goes into and out of one’s lungs. → You can't take a breath under water.
+breath - [breθ] n. | A breath is the air that goes into and out of one's lungs. → You can't take a breath under water.
 bridge - [brɪdʒ] n. | A bridge is something that is built over a river so people can cross it. → The old bridge fell into the river.
 cast - [kæst] v. | To cast something means to throw it. → The fisherman cast his line into the water.
 dare - [dɛər] v. | To dare means to be brave enough to try something. → He dared to jump out of the airplane and skydive.
@@ -1163,8 +1163,8 @@ annual - [ˈænjʊəl] adj. | If something is annual, it happens once a year. �
 clay - [kleɪ] n. | Clay is a type of heavy, wet soil used to make pots. → She made a bowl out of the clay.
 cloth - [klɔ(:)θ] n. | Cloth is material used to make clothes. → His shirt is made of a very soft type of cloth.
 curtain - [ˈkəːrtən] n. | A curtain is a cloth hung over a window or used to divide a room. → She opened the curtains to let light into the room.
-deserve - [dɪˈzəːrv] v. | To deserve is to be worthy of something as a result of one’s actions. → The dog deserved a bone for behaving very well.
-feather - [ˈfeðər] n. | Feathers are the things covering birds’ bodies. → That bird has orange feathers on its chest.
+deserve - [dɪˈzəːrv] v. | To deserve is to be worthy of something as a result of one's actions. → The dog deserved a bone for behaving very well.
+feather - [ˈfeðər] n. | Feathers are the things covering birds' bodies. → That bird has orange feathers on its chest.
 fertile - [ˈfəːrtl] adj. | If land is fertile, it is able to produce good crops and plants. → The farmer grew many vegetables in the fertile soil.
 flood - [flʌd] n. | A flood is an event in which water covers an area which is usually dry. → After three days of rain, there was a flood in the city.
 furniture - [ˈfəːrnɪtʃə:r] n. | Furniture is the things used in a house such as tables and chairs. → His living room only had a few simple pieces of furniture.
@@ -1241,10 +1241,10 @@ wheat - [hwiːt] n. | Wheat is a plant which makes grain. Wheat grain is used to
 alley - [ˈælɪ] n. | An alley is a narrow road behind houses or buildings. → The alley behind my house looks dirty.
 ax - [ӕks] n. | An ax is a tool used to cut wood. → She used an ax to cut some wood for the fire.
 bunch - [bʌntʃ] n. | A bunch is a group of the same things. → She was hungry, so she ate the entire bunch of grapes.
-chore - [tʃɔːr] n. | A chore is a job that you have to do but don’t like. → It's Nikki's chore to do the dishes every Tuesday and Wednesday night.
+chore - [tʃɔːr] n. | A chore is a job that you have to do but don't like. → It's Nikki's chore to do the dishes every Tuesday and Wednesday night.
 decent - [ˈdiːsənt] adj. | When something is decent, it is OK or good enough. → Eric did a decent job painting the fence.
 disgrace - [dɪsˈgreɪs] n. | Disgrace is a feeling of shame. → He felt a sense of disgrace after failing his big exam.
-elbow - [ˈelbou] n. | The elbow is the middle part of a person’s arm that lets you bend it. → She pointed to her elbow to show me where she hurt herself.
+elbow - [ˈelbou] n. | The elbow is the middle part of a person's arm that lets you bend it. → She pointed to her elbow to show me where she hurt herself.
 grateful - [ˈgreɪtfəl] adj. | When you are grateful for something, you are happy that it happened. → The girls were grateful to have a chance to spend time with their grandfather.
 irritate - [ˈɪrəteɪt] v. | To irritate means to annoy someone. → She was irritated when her brother told her that he had lost her camera.
 kid - [kid] v. | To kid is to make a joke to make someone believe something which is not true. → I am not really mad. I was kidding when I said I was angry.
@@ -1269,7 +1269,7 @@ eclipse - [ɪˈklɪps] n. | An eclipse is an occasion when the moon moves in fro
 fairy - [ˈfɛərɪ] n. | A fairy is a small, magic creature with wings. → There are usually fairies in fantasy stories.
 grace - [greɪs] n. | Grace is a quality of moving in a smooth, relaxed and attractive way. → The ballerina danced with grace.
 leisure - [ˈliːʒə:r] n. | Leisure is time when you do not have to do work. → Eve likes to listen to music in her leisure time.
-mankind - [mænˈkaɪnd] n. | Mankind is all of the world’s people. → All of mankind has to work to make this a better world.
+mankind - [mænˈkaɪnd] n. | Mankind is all of the world's people. → All of mankind has to work to make this a better world.
 passion - [ˈpæʃən] n. | Passion is a very strong feeling of wanting to do something. → She had a passion for dancing.
 pillow - [ˈpɪlou] n. | A pillow is something that you put your head on when you sleep. → When I travel, I usually take along my favorite pillow.
 pulse - [pʌls] n. | A pulse is the beat of the heart. → The doctor checked the patient's pulse by feeling his wrist.
@@ -1324,7 +1324,7 @@ bark - [bɑːrk] v. | When a dog barks, it makes a short, loud noise. → The do
 bay - [beɪ] n. | A bay is an area near the ocean where the land goes inward. → The Golden Gate Bridge crosses San Francisco Bay.
 brilliant - [ˈbrɪljənt] adj. | If someone is brilliant, they are very smart. → My younger sister is brilliant for someone her age.
 chin - [tʃɪn] n. | Your chin is the hard part at the bottom of your face. → Luke pointed to the hair on his chin.
-complaint - [kəmˈpleɪnt] n. | A complaint is something you say to tell people that you don’t like something. → Mom said she didn't want to hear my brother's complaints.
+complaint - [kəmˈpleɪnt] n. | A complaint is something you say to tell people that you don't like something. → Mom said she didn't want to hear my brother's complaints.
 deaf - [def] adj. | When someone is deaf, they cannot hear. → Susan was born deaf.
 enthusiastic - [eneu:ziæstik] adj. | To be enthusiastic about something is to be excited by or interested in it. → The man was enthusiastic about his job.
 expedition - [ˌekspədɪʃən] n. | An expedition is a long trip, usually to a place very far away. → They got into their spaceship to begin their expedition.
@@ -1397,7 +1397,7 @@ suck - [sʌk] v. | To suck is to put something in your mouth and try to get flav
 urgent - [ˈəːrdʒənt] adj. | If something is urgent, it is important and needs to be done now. → He had to leave now; it was urgent.
 vanish - [ˈvænɪʃ] v. | To vanish is to go away suddenly. → All the passengers vanished from the train station.
 wagon - [ˈwæɡən] n. | A wagon is a cart you use to carry heavy things. → He used his wagon to carry some of his gifts.
-wrinkle - [ˈrɪŋkəl] n. | A wrinkle is a line on a person’s face that happens as they get old. → My grandfather has some wrinkles on his face.
+wrinkle - [ˈrɪŋkəl] n. | A wrinkle is a line on a person's face that happens as they get old. → My grandfather has some wrinkles on his face.
 abnormal - [æbˈnɔ:rməl] adj. | If something is abnormal, it is strange or not normal. → Her idea of art is a bit too abnormal for me.
 bamboo - [bæmˈbu:] n. | Bamboo is a hard plant with thin branches and leaves. → Outside his home, there is a lot of bamboo.
 blossom - [ˈblɑsəm] n. | A blossom is a flower or group of flowers. → There were colorful blossoms in the yard.
@@ -1470,7 +1470,7 @@ diligent - [ˈdɪlədʒənt] adj. | If someone is diligent, they work hard and a
 emperor - [ˈempərər] n. | An emperor is the leader of a group of countries. → The emperor Julius Caesar was in control o f ancient Rome.
 fiber - [ˈfaibər] n. | Fiber is a thread of a substance used to make clothes or rope. → The mat was made from tiny fibers.
 horrible - [ˈhɔ:rəbəl] adj. | If something is horrible, it is very bad. → The assignment was horrible. I hated it.
-impolite - [impəˈlait] adj. | If someone is impolite, they are rude. → Roger is im polite to everyone he meets.
+impolite - [impəˈlait] adj. | If someone is impolite, they are rude. → Roger is impolite to everyone he meets.
 kneel - [niːl] v. | To kneel is to put one or both knees on the ground. → Daryl got down on one knee and asked Nina to marry him.
 luxury - [ˈlʌkʃərɪ] n. | A luxury is an expensive thing that you do not need. → We stayed at a luxury resort for our honeymoon.
 massive - [ˈmæsɪv] adj. | If something is massive, it is very big. → The wheels on his truck were massive.
@@ -1485,7 +1485,7 @@ cereal - [ˈsɪərɪəl] n. | Cereal is a food that you mix with milk and eat fo
 cheerful - [ˈtʃɪəfəl] adj. | If someone is cheerful, they are happy or feel good. → The children were cheerful because they didn't have to go to school.
 diameter - [daɪˈæmɪtər] n. | The diameter of a round thing is the length across its center. → The diameter o f the tree was about 22 centimeters.
 exploit - [ˈiksplɔɪt] v. | To exploit something is to use it for greedy reasons rather than good reason. → The company exploits their workers and makes them stay 12 hours a day.
-famine - [ˈfæmɪn] n. | A famine is a long time with little or no food. → The farmers couldn't grow any food on the dry soil, so there was a famime.
+famine - [ˈfæmɪn] n. | A famine is a long time with little or no food. → The farmers couldn't grow any food on the dry soil, so there was a famine.
 harvest - [ˈhɑːrvɪst] n. | A harvest is the act of collecting food from farming. → They had a lot of wheat from the last harvest.
 merry - [ˈmerɪ] adj. | If someone is merry, they are very happy. → They felt merry because the weather was great.
 nut - [nʌt] n. | A nut is a hard seed or fruit that comes from some trees and bushes. → To eat a nut, first you have to crack its shell.
@@ -1534,7 +1534,7 @@ retrieve - [rɪˈtriːv] v. | To retrieve something is to find it and get it bac
 shallow - [ˈʃælou] adj. | If something is shallow, it is not deep. → The kids were playing in the shallow water.
 slope - [sloup] n. | A slope is ground that is not flat. → The slope to the top of the mountain was very steep.
 span - [spæn] v. | To span a length of time is to last that long. → His work began in 1999. It has spanned many years since then.
-superstition - [suːpərstiʃən] n. | A superstition is something magical that people believe is real. → It is a superstition that Friday the 13<sup>th</sup> is an unlucky day.
+superstition - [suːpərstiʃən] n. | A superstition is something magical that people believe is real. → It is a superstition that Friday the 13th is an unlucky day.
 sympathy - [ˈsɪmpəθɪ] n. | Sympathy is a feeling of being sad for another person. → I felt sympathy for my sister so I got her a balloon to cheer her up.
 vibrate - [vaɪˈbreɪt] v. | To vibrate is to shake very hard. → The machine made his whole body vibrate as he broke up the ground.
 wander - [ˈwɒndə:r] v. | To wander is to walk without going to a certain place. → The boys like to wander in the woods and look at birds.
@@ -1596,7 +1596,7 @@ seize - [siːz] v. | To seize something means to grab it quickly or strongly. �
 squeeze - [skwiːz] v. | To squeeze something means to press it together and hold it tightly. → When Clara saw her cat, she gave it a big squeeze.
 supreme - [suˈpriːm] adj. | When something is supreme, it is the highest or best. → The supreme officer was in charge of keeping the citizens calm.
 terrific - [təˈrɪfɪk] adj. | When something is terrific, it is very good. → My youngest daughter is a terrific painter.
-trait - [treɪt] n. | A trait is part of someone’s personality. → One trait of Salvador's personality is his cheerfulness.
+trait - [treɪt] n. | A trait is part of someone's personality. → One trait of Salvador's personality is his cheerfulness.
 vital - [ˈvaɪtl] adj. | When something is vital, it is necessary for life. → The heart is a vital organ.
 accustomed - [əˈkʌstəmd] adj. | When you become accustomed to something, you are in the habit of it. → Grandfather is accustomed to reading the newspaper every morning.
 affirm - [əˈfəːrm] v. | To affirm is to say that something is true. → Using a graph, Malcolm affirmed the success o f the company.
@@ -1614,7 +1614,7 @@ joint - [dʒɔɪnt] n. | A joint is a place of the body where the bones meet, su
 leak - [liːk] v. | To leak is to let a liquid or gas pass through a flaw. → The pipe leaks from many places.
 physician - [fɪzɪʃən] n. | A physician is a doctor. → The physician said I would feel better if I took my medicine.
 sacrifice - [ˈsækrəfaɪs] v. | To sacrifice something valuable is to give it up to get something else. → Her parents sacrificed a lot of money in order for her to go to college.
-stiff - [stɪf] adj. | When something is stiff, it is hard to move. → The bird was standing on the tree's s tiff branch.
+stiff - [stɪf] adj. | When something is stiff, it is hard to move. → The bird was standing on the tree's stiff branch.
 stroke - [strouk] v. | To stroke is to move a hand over something or someone. → She stroked her cheek to see if there was something on it.
 tragic - [ˈtrædʒɪk] adj. | When something is tragic, it is connected with death and suffering. → The airplane crashed in a tragic accident.
 tune - [tjuːn] n. | A tune is a song. → The students played a familiar tune for the audience.
@@ -1637,7 +1637,7 @@ ranch - [ræntʃ] n. | A ranch is a large farm where animals are kept. → My un
 steer - [stɪə:r] v. | To steer something is to control where it goes. → He steered the go-cart around the track.
 stripe - [straɪp] n. | A stripe is a thick line. → The flag of the United States has red and white stripes.
 tame - [teɪm] adj. | When an animal is tame, it is not afraid to be near people. → The tame bird rested on his hand.
-tempt - [tempt] v. | To tempt people is to offer them something they want but shouldn’t have. → I wasn't hungry, but she tempted me with a piece of my favorite cake.
+tempt - [tempt] v. | To tempt people is to offer them something they want but shouldn't have. → I wasn't hungry, but she tempted me with a piece of my favorite cake.
 Aborigine - [ӕbəˈridʒəni:] n. | An Aborigine is a native of Australia before Europeans lived there. → The Aborigines created beautiful artwork.
 ban - [bæn] v. | To ban something is to not let people do it. → Smoking is banned in this building.
 cautious - [ˈkɔːʃəs] adj. | If you are cautious, you are careful in a dangerous situation. → Be very cautious as you stack those boxes.
@@ -1654,7 +1654,7 @@ outlaw - [ˈautlɔː] n. | An outlaw is a criminal who hides from the police. �
 prospect - [ˈprɒspekt] n. | A prospect is a possibility that something will happen. → He wakes up every morning with the prospect of having a good day.
 purse - [pəːrs] n. | A purse is a bag where women keep money, makeup and keys. → My sister likes to buy designer purses.
 rod - [rɔd] n. | A rod is a thin stick made of wood or metal. → I bought a new fishing rod to use while on vacation.
-seldom - [ˈseldəm] adv. | If something seldom happens, it doesn’t happen very often. → It seldom rains in southern Arizona.
+seldom - [ˈseldəm] adv. | If something seldom happens, it doesn't happen very often. → It seldom rains in southern Arizona.
 shave - [ʃeɪv] v. | To shave means to cut the hairs on your face with a sharp tool. → My father shaves his face every day because he doesn't want a beard.
 terrified - [ˈterəfaid] adj. | If you are terrified, you are extremely scared. → When I saw the ghost, I was absolutely terrified!
 wizard - [ˈwɪzə:rd] n. | A wizard is a man who can do magic. → The wizard made gold fall from the sky.
@@ -1685,13 +1685,13 @@ drown - [draun] v. | To drown is to die from not being able to breathe underwate
 dynasty - [ˈdainəstɪ] n. | A dynasty is a series of rulers who are all from the same family. → The ancient Egyptians had a dynasty that lasted for many years.
 fraction - [ˈfrækʃən] n. | A fraction is a small part of something. → Only a fraction of the cake was gone.
 frost - [frɔ:st] n. | Frost is a white layer of ice that forms during very cold weather. → In the morning, the trees were all covered with frost.
-illusion - [ɪˈluːʒən] n. | An illusion is something that looks real, but doesn’t actually exist. → Some pictures create an illusion for the eyes.
+illusion - [ɪˈluːʒən] n. | An illusion is something that looks real, but doesn't actually exist. → Some pictures create an illusion for the eyes.
 invade - [ɪnˈveɪd] v. | To invade is to take over a place by force. → The enemy forces tried to invade our country through the air.
 lieutenant - [luːˈtenənt] n. | A lieutenant is a rank in the military or police, or a person with that rank. → The lieutenant was a good leader, and his soldiers respected him.
 marine - [məˈriːn] adj. | The word marine describes something related to the sea. → A healthy ocean is full of marine animals.
 merit - [ˈmerɪt] n. | The merit of something or someone is their good qualities. → The actor received an award for his merits in the movie.
-navy - [ˈneɪvɪ] n. | A navy is the part of a country’s military that fights at sea. → My country is known for our strong navy.
-polar - [ˈpoulər] adj. | Polar relates to the cold places on Earth’s north and south ends. → Only a few people live in the Earth's northern polar region.
+navy - [ˈneɪvɪ] n. | A navy is the part of a country's military that fights at sea. → My country is known for our strong navy.
+polar - [ˈpoulər] adj. | Polar relates to the cold places on Earth's north and south ends. → Only a few people live in the Earth's northern polar region.
 ray - [reɪ] n. | A ray is a line of light that comes from a bright object. → The sun's warm rays covered the beach.
 resign - [rɪˈzaɪn] v. | To resign means to quit a job. → After I officially resigned from work, I said goodbye to my boss.
 suicide - [ˈsuːəsaid] n. | Suicide is the act of killing oneself. → Some people feel so sad that they think suicide is the only answer.
@@ -1711,7 +1711,7 @@ embrace - [ɪmˈbreɪs] v. | To embrace is to hug. → When they saw each other 
 envy - [ˈenvɪ] v. | To envy someone is to wish that you had something that they have. → Sally envied the happy couple.
 fireworks - [ˈfaɪərwəːrks] n. | Fireworks are objects that create colored lights when they are lit. → The display of fireworks was so beautiful.
 flour - [ˈflauər] n. | Flour is a powder made from plants that is used to make foods like bread. → I wanted to bake a pie, but I needed flour.
-fuse - [fjuːz] n. | A fuse is a string that you light on fireworks to make them explode. → The boy litthe fuse on the rocket and waited for it to burst in the sky.
+fuse - [fjuːz] n. | A fuse is a string that you light on fireworks to make them explode. → The boy lit the fuse on the rocket and waited for it to burst in the sky.
 ginger - [ˈdʒɪndʒər] n. | Ginger is a spice from the root of a plant. It tastes spicy and sweet. → Ginger is a common ingredient in many dishes from India.
 jealous - [ˈdʒeləs] adj. | If you are jealous, you think someone might take something from you. → Miriam was jealous because Sue was paying too much attention to Jim .
 paste - [peɪst] n. | A paste is a thick and smooth substance. → My son needed some paste for a school project.
@@ -1719,12 +1719,12 @@ receipt - [rɪˈsiːt] n. | A receipt is a paper that proves that something was 
 wipe - [waip] v. | To wipe something is to slide a piece of cloth over it to clean it. → She wiped the dust from the windows.
 wire - [ˈwaɪə:r] n. | A wire is a thin string made out of metal. → The wires were connected to towers that brought electricity to the city.
 acknowledge - [əkˈnɒlɪdʒ] v. | If you acknowledge something, you accept that it is true or that it exists. → The teacher acknowledged that the young student was hungry.
-ambassador - [æmˈbæsədər] n. | An ambassador is a government worker who works in another country. → The ambassador from Korea was in charge ofthe conference.
+ambassador - [æmˈbæsədər] n. | An ambassador is a government worker who works in another country. → The ambassador from Korea was in charge of the conference.
 blonde - [blɒnd] adj. | If someone is a blonde, they have light-colored hair. → My cousin is different from me. She is a blonde with blue eyes.
 conquer - [ˈkɒŋkər] v. | To conquer a country means to attack and take control of it. → The soldiers were trying to conquer the world.
 drag - [dræg] v. | To drag something means to pull it across the ground. → The dog was dragging his owner down the street.
 exaggerate - [ɪgˈzædʒəreɪt] v. | To exaggerate is to say that something is bigger or better than it really is. → Jimmy wasn't exaggerating about the seriousness of his injury.
-heritage - [ˈherɪtɪdʒ] n. | Heritage is the collection of features of a society, such as language and religion. → Teepees are part ofthe heritage of the American Indians of the plains.
+heritage - [ˈherɪtɪdʒ] n. | Heritage is the collection of features of a society, such as language and religion. → Teepees are part of the heritage of the American Indians of the plains.
 insult - [ˈɪnsʌlt] v. | To insult someone is to say things that will hurt their feelings. → The girls insulted each other all afternoon.
 meanwhile - [ˈmiːnhwaɪl] adv. | Meanwhile means until something happens or while something is happening. → He wants to be a doctor in the future, but meanwhile, he works a regular job.
 necklace - [ˈneklɪs] n. | A necklace is a piece of jewelry that people wear around their necks. → Joyce received a lovely pearl necklace for her wedding anniversary.
@@ -1735,7 +1735,7 @@ rumor - [ˈruːmə:r] n. | A rumor is a story that may not be true. → Carla wa
 sin - [sin] n. | A sin is something that is wrong for religious reasons. → Taking something that doesn't belong to you is a sin.
 spectacle - [ˈspektəkəl] n. | A spectacle is an amazing sight. → Niagara Falls is quite a spectacle.
 stack - [stæk] n. | A stack is a pile of different things. → There was a stack of paperwork on his desk to complete.
-suspicious - [səsˈpɪʃəs] adj. | If someone is suspicious of someone else, they do not trust that person. → Dad was suspicious ofthe caller on the line.
+suspicious - [səsˈpɪʃəs] adj. | If someone is suspicious of someone else, they do not trust that person. → Dad was suspicious of the caller on the line.
 tin - [tɪn] n. | Tin is a cheap white metal. → Soup is a common food that is often sold in tin cans.
 vase - [veis] n. | A vase is an attractive container where people keep flowers. → The vase was filled with such lovely flowers.
 ache - [eɪk] v. | If something aches, it hurts. → Mindy's head ached because she bumped it against the wall.
@@ -1754,7 +1754,7 @@ merchant - [ˈməːrtʃənt] n. | A merchant is a person who sells things. → T
 poke - [pouk] v. | To poke something is to push it with your finger. → I poked my finger on a thumb tack.
 postpone - [poustˈpoun] v. | To postpone something is to make it happen later than planned. → They postponed the meeting until Elena arrived.
 splash - [splæʃ] v. | When a liquid splashes, it bursts and hits something. → Some green paint splashed upon the floor.
-stubborn - [ˈstʌbə:rn] adj. | If people are stubborn, they don’t change their minds easily. → Both of my parents are stubborn. They never give in to each other.
+stubborn - [ˈstʌbə:rn] adj. | If people are stubborn, they don't change their minds easily. → Both of my parents are stubborn. They never give in to each other.
 suburb - [ˈsʌbəːrb] n. | A suburb is a small part of a large city. → I grew up in the suburbs only a few minutes outside of the city.
 tide - [taɪd] n. | The tide is the level of the water in the sea. → The tide continued to crawl upon the beach little by little.
 tragedy - [ˈtrædʒədɪ] n. | A tragedy is a very sad event. → It was a tragedy when his house was struck by lightning and burned.
@@ -1763,7 +1763,7 @@ certificate - [sərtɪfəkɪt] n. | A certificate is a document that says that s
 circumstance - [ˈsəːrkəmstӕns] n. | A circumstance is an event that makes a situation what it is. → There were many circumstances behind their success like hard work.
 coffin - [ˈkɔ:fɪn] n. | A coffin is a box used to bury dead people. → When a person passes away, they are usually buried inside of a coffin.
 cope - [koup] v. | To cope with a difficult or stressful situation means to deal with it. → He copes with work stress by exercising three or four times a week.
-criticism - [ˈkritisizəm] n. | Criticism is the act of saying that you don’t like or approve of something. → She had a lot of criticism about their new plan.
+criticism - [ˈkritisizəm] n. | Criticism is the act of saying that you don't like or approve of something. → She had a lot of criticism about their new plan.
 devastate - [ˈdevəsteɪt] v. | To devastate something means to completely destroy it. → The entire wall was devastated.
 frown - [fraun] v. | To frown is to make an unhappy look with your face. → Melissa frowned when she found out that the party had been cancelled.
 gaze - [geɪz] v. | To gaze at something means to look at it for a long time. → We used a telescope to gaze at the stars for over an hour.
@@ -1785,7 +1785,7 @@ caterpillar - [ˈkætərpɪlər] n. | A caterpillar is a small insect that looks
 cupboard - [ˈkʌbərd] n. | A cupboard is a piece of furniture that is used to store food or household items. → We put all of our dishes and food in the cupboards.
 delicate - [ˈdeləkɪt] adj. | If something or someone is delicate, they are easy to break or harm. → You should hold the baby carefully because she's very delicate.
 emerge - [ɪˈməːrdʒ] v. | To emerge from something means to come out of it. → The hand suddenly emerged from the grave.
-handicap - [ˈhændɪkæp] n. | A handicap is a condition that limits someone’s mental or physical abilities. → Joe has a slight handicap, so he uses a walker to get around.
+handicap - [ˈhændɪkæp] n. | A handicap is a condition that limits someone's mental or physical abilities. → Joe has a slight handicap, so he uses a walker to get around.
 hook - [huk] n. | A hook is a sharp curved piece of metal used for catching or holding things. → The fish went after the sharp hook.
 hop - [hɔp] v. | To hop means to jump a short distance. → The kangaroo quickly hopped away from danger.
 laundry - [ˈlɔːndrɪ] n. | Laundry is clothes that have been or need to be washed. → He folded the clean laundry and put the dirty laundry in a basket.
@@ -1842,7 +1842,7 @@ admonish - [ədˈmɒnɪʃ] v. | To admonish someone is to tell them you disappro
 audible - [ˈɔːdəbl] adj. | If something is audible, then it is able to be heard. → The sound of the drums was audible from miles away.
 awesome - [ˈɔːsəm] adj. | If something or someone is awesome, they are impressive or frightening. → The huge military plane was an awesome sight.
 beware - [bɪˈwɛər] v. | To beware means to be careful of something or someone that is dangerous. → You should beware of driving fast on wet roads.
-brag - [bræg] v. | To brag means to talk of one’s abilities or achievements in a proud way. → He had strong muscles and bragged about it to the entire class.
+brag - [bræg] v. | To brag means to talk of one's abilities or achievements in a proud way. → He had strong muscles and bragged about it to the entire class.
 conscious - [ˈkɒnʃəs] adj. | If someone is conscious of something, then they are aware of it. → The new student was conscious of the other students staring at her.
 disagree - [dɪsəgriː] v. | To disagree with someone means to have a different opinion from them. → The lawyers disagreed about the best way to settle the case.
 echo - [ˈekou] v. | To echo means that a sound repeats itself because it bounced off an object. → The child yelled over the canyon, and the wall echoed the sound.
@@ -1858,7 +1858,7 @@ pinpoint - [ˈpɪnpɔɪnt] v. | To pinpoint something means to locate it exactly
 switch - [swɪtʃ] v. | To switch means to change something to something else. → Mom switched the TV station from the news to her favorite show.
 thorough - [ˈθə:rou] adj. | If something or someone is thorough, then they are complete in every way. → Tina did a thorough job of cleaning the stains out of the carpet.
 torment - [ˈtɔːrment] v. | To torment someone means to cause them to suffer on purpose. → She tormented her little brother by taking his favorite toy.
-beak - [beak] n. | A beak is the hard curved part of a bird’s mouth. → The bird used her beak to dig a small hole in the ground.
+beak - [beak] n. | A beak is the hard curved part of a bird's mouth. → The bird used her beak to dig a small hole in the ground.
 damp - [dæmp] adj. | If something is damp, it is somewhat wet. → My hair is still damp from my shower.
 disapprove - [disəˈpruːv] v. | To disapprove of something is to think that it is wrong. → Alex, disapproved of his son's behavior.
 except - [ɪkˈsept] prep. | You use except to talk about the only thing that a statement does not apply to. → Everyone had fun on the trip except Jim, who felt ill the whole time.
@@ -1901,7 +1901,7 @@ weird - [wiə:rd] adj. | When something is weird, it is very strange. → My bes
 absolute - [ˈæbsəluːt] adj. | If something is absolute, it is total or complete. → My presentation was an absolute disaster! It was terrible!
 alas - [əˈlæs] int. | Alas is a word that people say when something bad happens. → I looked everywhere for my purse, but alas, I couldn't find it.
 attentive - [əˈtentɪv] adj. | If you are attentive, you are careful and you pay attention. → He is a good student because he is attentive to every detail on his work.
-cape - [keɪp] n. | A cape is a large cloth that covers one’s back and is tied around the neck. → The superhero wore a long red cape.
+cape - [keɪp] n. | A cape is a large cloth that covers one's back and is tied around the neck. → The superhero wore a long red cape.
 envision - [ɪnˈvɪʒən] v. | To envision something means to imagine that it may happen. → I can envision my mom's face when I give her this present!
 evenly - [ˈiːvənlɪ] adv. | When something happens evenly, it happens at the same rate or level. → The food was handed out evenly among the hungry people.
 folk - [fouk] n. | Folk are common or average people. → I've invited all the folks from our street to a gathering at my place.
@@ -1916,9 +1916,9 @@ role - [roul] n. | A role is the normal purpose or function of a person or thing
 shrink - [ʃriŋk] v. | To shrink means to get smaller. → If you stick to a healthy diet, your stomach will shrink!
 soak - [souk] v. | To soak something means to make it very wet. → You need to soak these beans overnight before you cook them.
 spark - [spɑːrk] n. | A spark is a small, quick flash of fire. → As he welded the two pieces of metal together, sparks flew everywhere.
-spirit - [ˈspirit] n. | A spirit is someone’s feelings and personality, but not a physical body part. → He has a very outgoing spirit. He can make friends with anyone.
+spirit - [ˈspirit] n. | A spirit is someone's feelings and personality, but not a physical body part. → He has a very outgoing spirit. He can make friends with anyone.
 suit - [suːt] n. | A suit is a set of clothes. It usually includes a jacket with pants or a skirt. → I wore my new suit on my date with Melissa.
-account - [əˈkaunt] n. | An account with a bank is an arrangement to keep one’s money there. → After I paid for the new car, my bank account was nearly empty.
+account - [əˈkaunt] n. | An account with a bank is an arrangement to keep one's money there. → After I paid for the new car, my bank account was nearly empty.
 architect - [ˈɑːrkɪtekt] n. | An architect is a person who designs buildings. → The plans for building the new home were drawn by a famous architect.
 conceal - [kənˈsiːl] v. | To conceal something means to hide it. → You should conceal your money so no one can take it from you.
 crime - [kraɪm] n. | A crime is something bad that a person does that can be punished by law. → Police quickly arrived at the scene of the crime.
@@ -1934,8 +1934,8 @@ offense - [əˈfens] n. | An offense is an action that breaks the law and requir
 proclaim - [prouˈkleim] v. | To proclaim something means to say it in public. → The army general proclaimed that the war was won.
 rally - [ˈrӕli] n. | A rally is a large public meeting in order to support something. → The school had a rally in the gym to support the basketball team.
 resolve - [rɪˈzɒlv] v. | To resolve something means to find a solution. → She resolved the problem with her children by giving them both a toy.
-resource - [rɪˈsɔːrs] n. | Resources are a person or country’s money and materials that they can use. → The poor man didn't have the resources to feed himself.
-sentence - [ˈsentəns] n. | A sentence is punishment given to someone who didn’t follow the law. → The sentence for stealing a car is much worse than for stealing candy.
+resource - [rɪˈsɔːrs] n. | Resources are a person or country's money and materials that they can use. → The poor man didn't have the resources to feed himself.
+sentence - [ˈsentəns] n. | A sentence is punishment given to someone who didn't follow the law. → The sentence for stealing a car is much worse than for stealing candy.
 volunteer - [volənˈtiər] v. | To volunteer means to offer to do something for free. → Many people volunteered to help the adults learn to read.
 witness - [ˈwitnis] n. | A witness is someone who sees or hears a crime or accident happen. → The woman was the only witness of the horrible crime.
 access - [ˈækses] n. | Access is the right to enter or use something. → The manager was the only person with access to the password.
@@ -2177,7 +2177,7 @@ state - [steit] v. | To state something means to say it in a definite way. → T
 tray - [trei] n. | A tray is a flat plate used to hold food. → The waiter brought our food on a tray.
 unfortunate - [ʌnˈfɔːrtʃənɪt] adj. | If something is unfortunate, it is bad or unlucky. → It was unfortunate that Dave's team lost, but he still had fun.
 vivid - [vivid] adj. | When something is vivid, it is bright and colorful. → The figures in the painting were vivid.
-vomit - [ˈvɒmit] v. | To vomit means to have food come up from one’s stomach. → It is common for women to vomit when they are pregnant.
+vomit - [ˈvɒmit] v. | To vomit means to have food come up from one's stomach. → It is common for women to vomit when they are pregnant.
 betray - [biˈtrei] v. | To betray someone means to treat them in a dishonest way. → The man betrayed his country when he gave away national secrets.
 blast - [blæst] n. | A blast is a loud noise made by something that explodes. → There was a loud blast when the police officer fired the gun.
 bracelet - [ˈbreislit] n. | A bracelet is a piece of jewelry that you wear around your wrist. → My father gave me a pretty gold bracelet for my birthday.
@@ -2198,7 +2198,7 @@ sole - [soul] adj. | When something is the sole thing, it is the only thing of a
 sweep - [swiːp] v. | If you sweep the floor, you clean it with a tool like a broom or a brush. → There is a lot of dirt on the floor. Can you sweep it please?
 treachery - [ˈtretʃəri] n. | Treachery is a behavior in which a person betrays a country or a person. → The man ran away to escape from the treachery of his wife.
 tuck - [tʌk] v. | To tuck something means to put it somewhere so that it is neat or safe. → He looked sloppy without his shirt being tucked into his pants.
-background - [ˈbækgraund] n. | A background is a person’s education, family, and experience. → The new teacher had a background in science and math.
+background - [ˈbækgraund] n. | A background is a person's education, family, and experience. → The new teacher had a background in science and math.
 bait - [beit] n. | Bait is something used to trick a person or thing to do something. → The best bait for catching fish is a big, fat worm.
 chronicle - [ˈkrɒnikl] v. | To chronicle something means to record an event or speech. → The daily newspaper chronicles local and world events.
 copper - [ˈkɒpər] n. | Copper is a red-brown metal often used in electric wire and pipes. → Ancient hunters melted copper to make knives and spears.
@@ -2208,11 +2208,11 @@ infect - [inˈfekt] v. | To infect someone means to give them an illness. → Th
 itch - [itʃ] v. | To itch means to rub the skin with your fingernails. → The rough fabric in his shirt made the back of his neck itch.
 literature - [ˈlitərətʃər] n. | Literature is books, plays, and poetry. → Early American literature covers the poetry and stories from 1500 to 1800.
 millennium - [miˈleniəm] n. | A millennium is one thousand years. → Stonehenge is believed to have been built about 5 millenniums ago.
-myth - [miθ] n. | A myth is a traditional story that explains a culture’s history and beliefs. → In Greece, there was a myth about a woman who had snakes for hair.
+myth - [miθ] n. | A myth is a traditional story that explains a culture's history and beliefs. → In Greece, there was a myth about a woman who had snakes for hair.
 relate - [riˈleit] v. | To relate to something means to have a connection with it. → A company's plan usually relates to how much profit it can make.
 religion - [riˈlidʒən] n. | A religion is a belief in a god or gods. → Their religion taught that people should forgive their enemies.
 sum - [sʌm] n. | A sum is a specific amount of money. → He calculated the numbers to see what the sum of his bills would be.
-teller - [ˈtelə:r] n. | A teller is a person who works with a bank’s customers. → The teller at the bank helped Kelly put money into a savings account.
+teller - [ˈtelə:r] n. | A teller is a person who works with a bank's customers. → The teller at the bank helped Kelly put money into a savings account.
 trustworthy - [ˈtrʌstˌwəːrði] adj. | If someone is trustworthy, they are honest and truthful. → Mary is one of the most trustworthy people I've ever met.
 update - [ʌpˈdeit] v. | To update something means to make it more modern. → We need to update the programs on our computers.
 vein - [vein] n. | A vein is a tube in the body that carries blood toward the heart. → The blue veins in my hand are just under my skin.
@@ -2234,7 +2234,7 @@ persecute - [ˈpəːrsikjuːt] v. | To persecute means to treat someone badly. �
 pity - [ˈpiti] n. | Pity is the feeling of sadness and kindness for those who are suffering. → Because she had pity for the lost boy, she helped him find his parents.
 reduce - [riˈdjuːs] v. | To reduce something means to make it less in size or number. → When the store reduced its prices, people wanted to shop there.
 scribe - [skraib] n. | A scribe was a person whose job was to copy written works. → In Ancient Egypt, scribes recorded important events.
-temper - [ˈtempə:r] n. | A temper is someone’s mood or a chance that they might get angry. → She has a temper. Even the slightest mistakes make her angry.
+temper - [ˈtempə:r] n. | A temper is someone's mood or a chance that they might get angry. → She has a temper. Even the slightest mistakes make her angry.
 throne - [θroun] n. | A throne is the special chair in which a ruler sits. → Nobody except the king and queen sat in the thrones in the great hall.
 unity - [ˈjuːnəti] n. | Unity is the state of people working together for a certain purpose. → The project was finished early, thanks to the unity of the workers.
 victor - [ˈviktər] n. | A victor is a group or person that wins in a contest. → At the end of the game, the blue team was the victor.
@@ -2244,7 +2244,7 @@ asteroid - [ˈæstərɔɪd] n. | An asteroid is a giant rock from outer space. �
 controversy - [kɒnˈtrəvə:rsɪ] n. | A controversy is a dispute about something that affects many people. → There has been a lot of controversy over the judge's decision.
 evolve - [iˈvɒlv] v. | To evolve is to change over time. → Many people think that humans evolved from animals.
 factor - [ˈfæktər] n. | A factor is something that has an effect on the way another thing happens. → Smoking is the main factor that causes lung cancer.
-genetic - [dʒiˈnetik] adj. | If something is genetic, it is related to the genes in one’s body. → The color of one's eyes is genetic.
+genetic - [dʒiˈnetik] adj. | If something is genetic, it is related to the genes in one's body. → The color of one's eyes is genetic.
 genome - [ˈdʒiːnoum] n. | A genome is the collection of all the genes in a living thing. → Understanding the human genome may help cure many diseases.
 identical - [aiˈdentikəl] adj. | To be identical is to be the same as someone or something else. → James and John are identical twins.
 intellectual - [ˌɪntəˈlektjuəl] n. | An intellectual is a very smart person. → We've always considered my Uncle Max the intellectual of the family.
@@ -2347,7 +2347,7 @@ horrifying - [ˈhɔ:rəfaiŋ] adj. | If something is horrifying, it is frighteni
 incredulous - [inˈkredjələs] adj. | If someone is incredulous about something, they do not believe that it is true. → She was incredulous that monkeys could ever drive a car.
 linger - [ˈliŋgər] v. | To linger is to last for a long time. → The smell of fresh cookies lingered in the bakery.
 organism - [ˈɔːrgənizəm] n. | An organism is a living thing, especially a very small one. → We studied the organism on the microscope.
-paraphrase - [ˈpærəfreiz] v. | To paraphrase is to make someone else’s writing or speech shorter. → The students were asked to paraphrase the story they just heard.
+paraphrase - [ˈpærəfreiz] v. | To paraphrase is to make someone else's writing or speech shorter. → The students were asked to paraphrase the story they just heard.
 plague - [pleig] n. | A plague is a serious disease that quickly spreads to many people. → A plague in Europe killed millions of people.
 presently - [ˈprezəntli] adv. | If something happens presently, it is happening right now. → Presently, our profits are good, but by next year we can do even better.
 random - [ˈrændəm] adj. | If something is random, it happens without any pattern or reason. → Young children often ask random questions.
@@ -2375,7 +2375,7 @@ phenomenon - [fiˈnɒmənɒn] n. | A phenomenon is something that can be seen as
 pollute - [pəˈluːt] v. | To pollute means to make air, water, or land dirty, unclean, or foul. → The careless factory polluted the river with chemicals.
 ridicule - [ˈridikjuːl] v. | To ridicule is to make fun of something in a mean way. → The other students ridicule Peter's foreign accent.
 solar - [ˈsoulə:r] adj. | If something is solar, it is related to the sun. → Using solar energy is good for the environment.
-territory - [ˈterətɔ:ri] n. | A territory is a piece of land that belongs to a country but isn’t a state. → Gibraltar is a territory of Great Britain.
+territory - [ˈterətɔ:ri] n. | A territory is a piece of land that belongs to a country but isn't a state. → Gibraltar is a territory of Great Britain.
 tournament - [ˈtuə:rnəmənt] n. | A tournament is a competition, usually with many people participating. → My dad is playing in a golf tournament tomorrow.
 transportation - [ˌtrænspəːrˈteɪʃən] v. | Transportation is any type of vehicle that can carry people or things. → I don't have a car, so my normal transportation is the train.
 bill - [bil] n. | A bill is a statement of money owed for goods or a service. → I have so many bills that I do not know how to pay for them all.
@@ -2397,7 +2397,7 @@ textile - [ˈtekstail] n. | Textile is cloth that has been woven or knitted. →
 tornado - [tɔːrˈneidou] n. | A tornado is a tube-shaped formation of air that spins very quickly. → During a tornado, the safest place to be is underground.
 typhoon - [taiˈfuːn] n. | A typhoon is a large tropical storm that moves in circles. → Thousands of people lost electricity after a typhoon hit Australia.
 wail - [weil] v. | To wail is to show sadness by crying loudly. → The baby wailed because it was hungry.
-wardrobe - [ˈwɔːrdroub] n. | A wardrobe is the collection of all of a person’s clothing. → She bought some new clothes to expand her wardrobe.
+wardrobe - [ˈwɔːrdroub] n. | A wardrobe is the collection of all of a person's clothing. → She bought some new clothes to expand her wardrobe.
 allot - [əˈlɒt] v. | To allot something means to give it to someone. → The coach allotted each team five minutes to prepare a strategy.
 appall - [əˈpɔ:l] v. | To appall means to horrify, shock, or disgust someone. → The boy was appalled when he saw the accident.
 cache - [kæʃ] n. | A cache is a hiding place for valuable things. → The pirates kept their jewelry in a cache hidden in a cave.
@@ -2406,7 +2406,7 @@ dearth - [dəːrθ] n. | A dearth is an amount or supply which is not large enou
 deliberate - [diˈlibərit] adj. | If a thing you do is deliberate, you intend to do it. → She made a deliberate effort to save money each month.
 dire - [ˈdaiər] adj. | When something is dire, it is terrible and very serious. → The tornado created a dire situation for the small town.
 elapse - [iˈlæps] v. | To elapse means to pass, as in seconds, minutes, or hours. → A few seconds must elapse before you can take another picture.
-empathy - [ˈempəθi] n. | Empathy is sharing or understanding another person’s feelings. → The caring nurse had empathy for her patients.
+empathy - [ˈempəθi] n. | Empathy is sharing or understanding another person's feelings. → The caring nurse had empathy for her patients.
 fanciful - [ˈfænsifəl] adj. | When something is fanciful, it is unusual or unrealistic. → The girl had fanciful ideas about doing well in school without studying.
 gripe - [graip] v. | To gripe means to complain constantly. → Lawrence always gripes when he has to do chores.
 grueling - [ˈgru:əliŋ] adj. | When something is grueling, it is very hard to do. → The climber faced the grueling task of reaching the top of the steep mountain.
@@ -2448,9 +2448,9 @@ collision - [kəˈliʒən] n. | A collision is the act of two things hitting int
 competent - [ˈkɒmpətənt] adj. | If someone is competent, they are able to think or act successfully. → Competent employees are much better than unknowledgeable ones.
 diploma - [diˈploumə] n. | A diploma is a certificate proving that someone has completed their studies. → After four years of college, Mary finally had a diploma.
 excel - [ikˈsel] v. | To excel at a subject or activity means to be very good at it. → Jenny excels at playing the piano.
-geology - [dʒiˈɒlədʒi] n. | Geology is the study of the Earth’s natural structures and how they change. → Because he studied geology, he knew how the mountains were formed.
+geology - [dʒiˈɒlədʒi] n. | Geology is the study of the Earth's natural structures and how they change. → Because he studied geology, he knew how the mountains were formed.
 harness - [ˈhɑːrnis] v. | To harness something means to control and use it, usually to make energy. → The sails harness the wind in order to move.
-intellect - [ˈintəlekt] n. | An intellect is a person’s ability to understand things easily. → She was known for her quick and strong intellect as well as her beauty.
+intellect - [ˈintəlekt] n. | An intellect is a person's ability to understand things easily. → She was known for her quick and strong intellect as well as her beauty.
 keen - [kiːn] adj. | If someone is keen, they are intelligent. → Only the keenest of students could have solved that math problem.
 mythology - [miˈθɒlədʒi] n. | Mythology is a group of stories from a particular country or region. → Egyptian mythology was the basis for a religion.
 physiology - [ˌfiziˈɒlədʒi] n. | Physiology is the study of the various parts of living things. → His work in physiology helped him understand how the human body works.
@@ -2480,7 +2480,7 @@ transaction - [trænˈsækʃən] n. | A transaction is an act of buying or selli
 violate - [ˈvaiəleit] v. | To violate a law, rule, or agreement means to break it. → I was given a ticket because the policeman said I violated the speed limit.
 assess - [əˈses] v. | To assess something means to judge the structure, purpose, or quality of it. → She assessed the condition of the toy car before buying it.
 astonish - [əˈstɒniʃ] v. | To astonish someone means to greatly surprise them. → The amount of people that came to her party astonished her.
-commence - [kəˈmens] v. | To commence something means to begin it. → His speech commenced with a “thankyou” to all who had helped him succeed.
+commence - [kəˈmens] v. | To commence something means to begin it. → His speech commenced with a “thank you” to all who had helped him succeed.
 essence - [ˈesəns] n. | The essence of something is its important qualities or basic characteristics. → The essence of the argument was that both sides felt they had lost money.
 extract - [ikˈstrӕkt] v. | To extract something means to remove it. → The dentist extracted the woman's damaged tooth and put in a fake one.
 fabulous - [ˈfæbjələs] adj. | If something is fabulous, it is extremely good. → This strawberry is the best I've ever had. It's fabulous.
@@ -2499,7 +2499,7 @@ subsequent - [ˈsʌbsikwənt] adj. | If something is subsequent, then it comes a
 synthetic - [sinˈθetik] adj. | If something is synthetic, then it is made to be like something natural. → Clothing made out of synthetic fabrics is very effective at keeping people warm.
 terminal - [ˈtəːrmənəl] adj. | If something is terminal, then it causes or results in death. → Since his condition was not terminal, he felt a great sense of relief.
 altitude - [ˈӕltətjuːd] n. | The altitude of a place is its height above sea level. → The air was thin at such a high altitude on the mountain.
-coastline - [ˈkoustlain] n. | A coastline is the outline of a country’s coast. → He noticed that most of the cities in Australia are on the coastline.
+coastline - [ˈkoustlain] n. | A coastline is the outline of a country's coast. → He noticed that most of the cities in Australia are on the coastline.
 deter - [diˈtəːr] v. | To deter means to prevent or discourage someone from doing something. → Icy roads deter people from driving their cars.
 devise - [diˈvaiz] v. | To devise something means to have an idea or plan about it in the mind. → The thieves devised a plan to steal the diamonds.
 expertise - [ˌekspə:rtiːz] n. | Expertise is the knowledge and skills to do something well. → John has a lot of advertising expertise. He can sell anything!
@@ -2519,7 +2519,7 @@ spouse - [spaus] n. | A spouse is the person to whom someone is married. → I l
 thrust - [θrʌst] v. | To thrust means to push or move something quickly with a lot of force. → The boxer thrust his fist into the punching bag.
 tolerate - [ˈtɒləreit] v. | To tolerate something means to be able to accept it even when it is unpleasant. → When you are in a hurry, it can be hard to tolerate traffic signals.
 aquatic - [əˈkwætik] adj. | If a plant or animal is aquatic, it lives or grows in water. → The dolphin is an aquatic mammal.
-biosphere - [ˈbaiəsfiər] adj. | The biosphere is the earth’s surface and atmosphere where there are living things. → Birds, trees, and worms all thrive in the biosphere.
+biosphere - [ˈbaiəsfiər] adj. | The biosphere is the earth's surface and atmosphere where there are living things. → Birds, trees, and worms all thrive in the biosphere.
 bizarre - [biˈzaːr] adj. | When something is bizarre, it is very strange. → My bizarre dreams make no sense to me when I am awake.
 Celsius - [ˈselsiəs] n. | Celsius is a scale for measuring temperature. → Water freezes at zero degrees Celsius.
 coarse - [kɔːrs] adj. | If something is coarse, that means it has a rough texture. → The coarse sweater made my skin itch.
@@ -2536,7 +2536,7 @@ repetitive - [riˈpetətiv] adj. | When something is repetitive, it is repeated 
 reproductive - [riːprəˈdʌktiv] adj. | If something is reproductive, it has to do with a living thing producing young. → The reproductive system of a plant is simple.
 temperate - [ˈtempərit] adj. | When a place is temperate, it never gets too hot or cold. → In Peru, the weather is temperate and rarely gets too hot or cold.
 tolerance - [ˈtɒlərəns] n. | Tolerance is the ability to accept something painful or unpleasant. → Boxers have a high tolerance for pain.
-undergo - [ˈʌndərˈgou] v. | To undergo an action means to have it happen to you. → The cancer patient undergoes treatments twice a week. gous
+undergo - [ˈʌndərˈgou] v. | To undergo an action means to have it happen to you. → The cancer patient undergoes treatments twice a week.
 vulnerable - [ˈvʌlnərəbəl] adj. | When someone is vulnerable, they are weak and without protection. → He felt very vulnerable when he was stranded in the desert.
 adept - [əˈdept] adj. | If someone is adept at something, they are very good at doing it. → The carpenter is very adept at building houses.
 barren - [ˈbӕrən] adj. | If land is barren, it has no plants growing on it. → People cannot farm in barren lands.
@@ -2590,7 +2590,7 @@ indifferent - [inˈdəfrənt] adj. | When someone is indifferent toward somethin
 irrigate - [ˈirəgeit] v. | To irrigate means to supply water to land so that crops can grow. → In dry climates, it is important to irrigate fields of crops.
 maximize - [ˈmæksəmaiz] v. | To maximize something is to make it as great in amount, size, or importance. → You should exercise regularly to maximize a healthy lifestyle.
 monetary - [ˈmanəteri] adj. | When something is monetary, it relates to money. → A strong monetary policy is important for a country to be successful.
-precaution - [priˈkɔːʃən] n. | A precaution is an action that is meant to stop something bad from happening. → Asa precaution, you should put on a heavy coat before going out in cold weather.
+precaution - [priˈkɔːʃən] n. | A precaution is an action that is meant to stop something bad from happening. → As a precaution, you should put on a heavy coat before going out in cold weather.
 preliminary - [priˈliməneri] adj. | Preliminary describes something that happens before a more important event. → The runners must do well in the preliminary races to qualify for the final race.
 saturate - [ˈsӕtʃəreit] v. | To saturate something means to completely soak it with a liquid. → The sponge was saturated with soapy water and dripped all over the floor.
 simplicity - [simˈplisəti] n. | The simplicity of something is the fact that it is easy to do or understand. → We were able to find the house thanks to the simplicity of the directions.
@@ -2601,9 +2601,9 @@ upcoming - [ˈʌpkʌmiŋ] adj. | When something is upcoming, that means it will 
 acute - [əˈkjuːt] adj. | When a bad thing is acute, it is very severe and intense. → When she fell out of the tree, the girl felt an acute pain in her arm.
 aggression - [əˈgreʃən] n. | Aggression is behavior that is mean or violent to others. → The problem was only made worse by Mark's aggression.
 banquet - [ˈbæŋkwit] n. | A banquet is a grand formal dinner. → Both families brought a lot of food for the wedding banquet.
-biography - [baiˈɒgrəfi] n. | A biography is an account of someone’s life that is written by someone else. → We read a biography about Charles Darwin in science class.
+biography - [baiˈɒgrəfi] n. | A biography is an account of someone's life that is written by someone else. → We read a biography about Charles Darwin in science class.
 boost - [buːst] v. | To boost something means to increase or improve it. → Lowering prices boosts customers' interest in shopping.
-clap - [klæp] v. | To clap means to hit one’s hands together to express pleasure or get attention. → After the speech, everyone in the crowd clapped their hands for the speaker.
+clap - [klæp] v. | To clap means to hit one's hands together to express pleasure or get attention. → After the speech, everyone in the crowd clapped their hands for the speaker.
 compel - [kəmˈpel] v. | To compel someone to do something means to force them to do it. → Traffic signs compel drivers to drive safely.
 dominance - [ˈdɒmənəns] n. | The dominance of a person is their state of being more powerful than others. → Large gorillas hit their chests to express their dominance over others.
 gorgeous - [ˈgɔːrdʒəs] adj. | When something is gorgeous, it is very pleasing and attractive. → The girl picked out a gorgeous dress to wear to the dance.
@@ -2632,19 +2632,19 @@ ignorance - [ˈignərəns] n. | Ignorance of something is lack of knowledge abou
 masculine - [ˈmæskjəlin] adj. | When something is masculine, it is a quality or thing related to men. → American football is usually considered a masculine sport.
 monument - [ˈmɒnjəmənt] n. | A monument is a structure that is built to remind people of a person or event. → A large monument was built to honor the brave soldiers.
 muscular - [ˈmʌskjələ:r] adj. | When someone is muscular, they are very fit and strong. → He exercised regularly so that his body could become muscular.
-posture - [ˈpɒstʃər] n. | A person’s posture is the position in which they stand or sit. → Your back will feel better if you improve your posture.
+posture - [ˈpɒstʃər] n. | A person's posture is the position in which they stand or sit. → Your back will feel better if you improve your posture.
 situate - [ˈsitjueit] v. | To situate something means to place or build it in a certain place. → The road was situated between the forest and the lake.
 supervise - [ˈsuːpərvaiz] v. | To supervise something means to make sure that it is done correctly. → Allen supervised the construction workers to ensure everyone's safety.
 symmetry - [ˈsimətri] n. | Symmetry is the state of having two halves that are exactly the same. → The artist made sure to use perfect symmetry when painting the butterfly.
 tattoo - [tæˈtuː] n. | A tattoo is a design that is drawn permanently on the skin with needles. → The surfer had tattoos on both his arms.
-undergraduate - [ˈʌndərˈgrædjuit] n. | An undergraduate is a student at a college who is studying fora bachelor’s degree. → She was excited to finish high school and enroll as an undergraduate in the fall.
+undergraduate - [ˈʌndərˈgrædjuit] n. | An undergraduate is a student at a college who is studying fora bachelor's degree. → She was excited to finish high school and enroll as an undergraduate in the fall.
 brook - [bruk] n. | A brook is a small stream. → Water flows down several brooks on the mountain.
 cater - [ˈkeitər] v. | To cater to someone means to provide them with all the things needed or wanted. → Bill was too sick to get out of bed, so his nurse catered to his needs.
 considerate - [kənˈsidərit] adj. | When someone is considerate, they pay attention to the needs of others. → The considerate boy gave a present to his girlfriend on Valentine's Day.
 consumption - [kənˈsʌmpʃən] n. | The consumption of food or drink is the act of eating or drinking it. → These apples are too rotten for consumption.
 criteria - [kraiˈtiəriə] n. | Criteria are factors on which a person judges or decides something. → Before she got the job, she had to meet all the necessary criteria.
 crust - [krʌst] n. | Crust is the tough outer part of a loaf of bread. → The little boy never ate the crust of his pizza.
-degrade - [diˈgreid] v. | To degrade someone means to cause people to have shame. → The teacher degraded Bob when she announced his poor performance to the class
+degrade - [diˈgreid] v. | To degrade someone means to cause people to have shame. → The teacher degraded Bob when he announced his poor performance to the class.
 entitle - [enˈtaitl] v. | To entitle someone means to give them the rights to have or do something. → His golden ticket entitled him to sit in the front row at the concert.
 escort - [ˈeskɔːrt] v. | To escort people means to safely accompany them to a place. → Her bodyguards escorted her to the movie theater.
 external - [ikˈstəːrnəl] adj. | When something is external, it is connected to an outer part. → It is warm inside my house, but the external temperature is freezing.
@@ -2664,9 +2664,9 @@ Braille - [breil] n. | Braille is a system of raised patterns on paper that allo
 bud - [bʌd] n. | A bud is a part of a plant that turns into a flower or a leaf. → Two weeks after planting the seed, a small bud appeared.
 coordinate - [kouˈɔːrdəneit] v. | To coordinate things is to make different parts work together. → Each skating team had to coordinate their movements for the show.
 disprove - [disˈpruːv] v. | To disprove something means to show that it is not true. → The scientist disproved the theory that the sun moved around the Earth.
-humanitarian - [hjuːˌmænəˈtɛəriən] adj. | If something is humanitarian, it is connected to helping people’s lives. → After the flood, several humanitarian organizations offered help.
+humanitarian - [hjuːˌmænəˈtɛəriən] adj. | If something is humanitarian, it is connected to helping people's lives. → After the flood, several humanitarian organizations offered help.
 hypothesis - [haiˈpɒθəsis] n. | A hypothesis is an idea for something that has not been proved yet. → The teacher did an experiment to prove whether his hypothesis was right.
-imprint - [imˈprint] n. | An imprint is an effect or lesson from an experience that is hard to forget. → The experience ofwarleftan imprint on his mind that troubled him.
+imprint - [imˈprint] n. | An imprint is an effect or lesson from an experience that is hard to forget. → The experience of war left an imprint on his mind that troubled him.
 informative - [inˈfɔːrmətiv] adj. | When something is informative, it provides a lot of information. → The travel guide had a lot of informative facts about the region.
 optic - [ˈɒptik] adj. | When something is optic, it relates to the eyes or light. → Her blindness was caused by a problem with her optic nerve.
 premise - [ˈpremis] n. | A premise is an idea on which something is based. → The premise of the movie that Bobbi and I watched was unrealistic.
@@ -2694,7 +2694,7 @@ innate - [iˈneit] adj. | When something is innate, it is something that one is 
 marble - [ˈmɑːrbəl] n. | Marble is a type of rock that feels cold and is smooth when cut. → The large house had floors made of marble.
 mast - [mæst] n. | A mast is a long pole on a ship that holds the sail. → The mast held both sails of the ship upright.
 nausea - [ˈnɔːziə] n. | Nausea is the feeling of being sick to your stomach. → The doctor said the medicine would help get rid of her nausea.
-naval - [ˈneivəl] adj. | When something is naval, it relates to a country’s navy or military ships. → The country sent all of its naval forces to protect them.
+naval - [ˈneivəl] adj. | When something is naval, it relates to a country's navy or military ships. → The country sent all of its naval forces to protect them.
 pouch - [pautʃ] n. | A pouch is a small, flexible bag that is usually made of cloth. → I keep my money in a small pouch.
 saturated - [ˈsætʃəreitid] adj. | If something is saturated, it is completely wet. → Leigh's hair became saturated in the rain storm.
 update - [ʌpˈdeit] n. | An update is an act of making something more modern. → I'm doing an update on my personal phone directory.
@@ -2712,7 +2712,7 @@ fraud - [frɔːd] n. | Fraud is the crime of gaining money by lying or by tricki
 hydrogen - [ˈhaidrədʒən] n. | Hydrogen is a gas that has no taste, color, or smell. → Balloons filled with hydrogen can easily float away if you aren't careful.
 integrity - [inˈtegrəti] n. | Integrity is honesty and good morals. → The principal had a lot of integrity.
 knit - [nit] v. | To knit is to make fabric by connecting strings together. → My grandmother knitted me a sweater.
-outlook - [ˈautluk] n. | An outlook is a person’s opinion or way of thinking about something. → He changed his outlook about rats after he read a book about them.
+outlook - [ˈautluk] n. | An outlook is a person's opinion or way of thinking about something. → He changed his outlook about rats after he read a book about them.
 parachute - [ˈpærəʃuːt] n. | A parachute is a device that helps people and things fall to the ground safely. → They used parachutes dropped from airplanes to send supplies to the civilians.
 prehistoric - [ˈpriːhisˈtɔ:rik] adj. | When something is prehistoric, it is from a time when there was no written history. → The scientists found prehistoric pots used by the people in the area.
 proponent - [prəˈpounənt] n. | A proponent is a person who supports an idea or a plan. → He was a proponent of using environmentally friendly products.
@@ -2728,7 +2728,7 @@ graduate - [ˈgrædjueit] v. | To graduate from a school means to complete and p
 graffiti - [grəˈfiːti:] n. | Graffiti is words or drawings in public places. → The wall was covered with colorful graffiti.
 guardian - [ˈgɑːrdiən] n. | A guardian is someone who protects somebody or something. → The librarians are the guardians of the books.
 implicate - [ˈimpləkeit] v. | To implicate someone is to show that they have done a crime or something bad. → The man was implicated in the theft at the store.
-kin - [kin] n. | Kin is a person’s family and relatives. → His kin were all farmers.
+kin - [kin] n. | Kin is a person's family and relatives. → His kin were all farmers.
 referee - [ˌrefəˈriː] n. | A referee is a person who makes sure that the rules are followed in sports. → The soccer player didn't agree with the referee.
 sever - [ˈsevə:r] v. | To sever something is to cut through it completely. → He severed the string using scissors.
 shaft - [ʃæft] n. | A shaft is a handle of a tool or weapon. → The golf club had a long wooden shaft that he held in his hands.
@@ -2789,10 +2789,10 @@ immune - [iˈmjuːn] adj. | When someone is immune to a disease, they cannot be 
 input - [ˈinput] n. | Input is information that is put into a computer. → Type the input into the computer program.
 intimate - [ˈintəmit] adj. | When a relationship is intimate, the two things are very closely connected. → I only tell my secrets to my most intimate friends.
 magnet - [ˈmægnit] n. | A magnet is a piece of iron or other material which attracts iron toward it. → I used a magnet to pick up the nails that were scattered on the floor.
-metabolism - [məˈtæbəlizəm] n. | A person’s metabolism is the way chemical processes in their body use energy. → If you exercise every day, your metabolism speeds up.
+metabolism - [məˈtæbəlizəm] n. | A person's metabolism is the way chemical processes in their body use energy. → If you exercise every day, your metabolism speeds up.
 microchip - [ˈmaikrouˌtʃip] n. | A microchip is a small device inside a computer that holds information. → I can put more data on my computer if I buy a more powerful microchip.
 phase - [feiz] n. | A phase is a stage in a process or the gradual development of something. → The first phase in the recycling project involves finding volunteers to help out.
-pinch - [pintʃ] v. | To pinch means to take a piece of skin between one’s fingers and squeeze. → I pinched my nose, so I couldn't smell the odor from the garbage.
+pinch - [pintʃ] v. | To pinch means to take a piece of skin between one's fingers and squeeze. → I pinched my nose, so I couldn't smell the odor from the garbage.
 prevalent - [ˈprevələnt] adj. | When something is prevalent, it is common. → Growing a beard is more prevalent behavior in men than women.
 quantum - [ˈkwɒntəm] adj. | When something is quantum, it relates to the behavior of atomic particles. → The physics student studied quantum mechanics.
 ratio - [ˈreiʃou] n. | A ratio is a relationship between two things expressed in numbers or amounts. → The boy to girl ratio is one to three.
@@ -2843,8 +2843,8 @@ atom - [ˈætəm] n. | An atom is the smallest unit of a substance. → A molecu
 breadth - [bretθ] n. | Breadth is the distance from one side to the other side of something. → The breadth of the northern wall of the house is twenty meters.
 circumference - [səˈkʌmfərəns] n. | A circumference is the distance completely around a circular object. → The circumference of the Earth is obviously much larger than a baseball's.
 comet - [ˈkɒmit] n. | A comet is an object in space made of ice and rock with a tail of glowing dust. → Comets take many decades to complete an orbit around a star.
-crater - [ˈkreitər] n. | A crater is a large hole in a planet’s or moon’s surface. → They could clearly see the big crater on the moon through the telescope.
-crescent - [ˈkresənt] n. | A crescent is the curved shape lit on the moon’s face during its early and late stages. → Ten days ago the entire moon was bright, but now only a small crescent is shining.
+crater - [ˈkreitər] n. | A crater is a large hole in a planet's or moon's surface. → They could clearly see the big crater on the moon through the telescope.
+crescent - [ˈkresənt] n. | A crescent is the curved shape lit on the moon's face during its early and late stages. → Ten days ago the entire moon was bright, but now only a small crescent is shining.
 debris - [ˈdəbriː] n. | Debris is the small pieces scattered from something wrecked or destroyed. → The debris from the cube scattered on the floor.
 despair - [disˈpɛər] n. | Despair is the complete loss of hope. → After the other company won the account, our salespeople were filled with despair.
 embed - [imˈbed] v. | To embed something means to place it firmly within a surrounding thing. → The logger embedded the ax into the wood after chopping several logs.
@@ -2880,7 +2880,7 @@ utility - [juːˈtiləti] n. | A utility is a business that supplies services su
 whereby - [hwɛə:rˈbai] conj. | Whereby means by which or through which. → The mayor had a new bridge built whereby the citizens could cross the river.
 aesthetic - [esˈθetik] adj. | If something is aesthetic, then it is concerned with a love of beauty. → The dresses were noteworthy for their aesthetic design.
 arrogant - [ˈærəgənt] adj. | If someone is arrogant, they think that they are more important than others. → He is very arrogant. Even though he's not the boss, he tells everyone what to do.
-bias - [ˈbaiəs] n. | A bias is a person’s likelihood to like one thing more than another thing. → The mothers had a natural bias for their own child's picture.
+bias - [ˈbaiəs] n. | A bias is a person's likelihood to like one thing more than another thing. → The mothers had a natural bias for their own child's picture.
 canyon - [ˈkænjən] n. | A canyon is a narrow valley with steep walls through which a river often flows. → The canyon was so deep that the ground inside was covered in shadow.
 creek - [kriːk] n. | A creek is a stream or small river. → Only small fish lived in the shallow waters of the creek.
 drill - [dril] n. | A drill is a tool with a point that spins in order to make a hole. → The carpenter used the drill to make several holes in the wood.
@@ -2898,7 +2898,7 @@ thereby - [ˈðɛə:rˈbai] adv. | If something happens thereby an action, then 
 trail - [treil] n. | A trail is a path through a wild area. → A narrow trail cut through the field and over the hills.
 twig - [twig] n. | A twig is a short and thin branch from a tree or bush. → They started the fire with a handful of dry twigs.
 welfare - [ˈwelfɛə:r] n. | Welfare is the health and happiness of a person or group. → Having plenty of clean water is necessary for the welfare of people.
-behalf - [biˈhæf] n. | If something is done on one’s behalf, it is done for that person by another. → The original speaker was sick, so his son gave the speech on his behalf.
+behalf - [biˈhæf] n. | If something is done on one's behalf, it is done for that person by another. → The original speaker was sick, so his son gave the speech on his behalf.
 flap - [flæp] v. | To flap means to move quickly up and down or from side to side. → The tiny bird flapped its wings and ate from the flowers.
 glacier - [ˈgleiʃər] n. | A glacier is a large piece of ice that moves very slowly. → The North Pole is covered by a huge glacier.
 globe - [gloub] n. | The globe refers to the Earth. → Water covers most of the globe.
@@ -2937,10 +2937,10 @@ surgeon - [ˈsəːrdʒən] n. | A surgeon is a doctor who is trained to do surge
 therapy - [ˈθerəpi] n. | Therapy is treatment for a particular physical or mental illness or condition. → After she broke her legs, she used physical therapy to learn how to walk again.
 transfer - [ˈtrænsfə:r] v. | To transfer something means to move it from one place to another. → The family transferred the groceries from the shopping cart to the car.
 transition - [trænˈziʃən] n. | A transition is a process where there is a change from one form to another. → The weather gets colder during the transition from summer to autumn.
-transplant - [trænsˈplænt] n. | A transplant is an operation in which a damaged part of one’s body is replaced. → The sick child needed a heart transplant to live.
+transplant - [trænsˈplænt] n. | A transplant is an operation in which a damaged part of one's body is replaced. → The sick child needed a heart transplant to live.
 aquarium - [əˈkwɛəriəm] n. | An aquarium is a building where fish and underwater animals are kept. → We took a trip to the aquarium and saw a scary shark.
 arbitrary - [ˈɑːrbitreri] adj. | If something is arbitrary, it is not based on any plan or system, so it seems random. → The classroom had many arbitrary rules that made me confused.
-autobiography - [ˌɔːtəbaiˈɒgrəfi] n. | An autobiography is a true story of a person’s life written by that person. → I read an autobiography about my favorite entertainer.
+autobiography - [ˌɔːtəbaiˈɒgrəfi] n. | An autobiography is a true story of a person's life written by that person. → I read an autobiography about my favorite entertainer.
 convention - [kənˈvenʃən] n. | A convention is behavior that is considered to be common or polite. → In the US, a popular convention is to shake hands when you meet someone.
 gracious - [ˈgreiʃəs] adj. | If someone is gracious, then they are kind and helpful to those who need it. → The operator was gracious enough to help me find his number.
 improve - [imˈpruːv] v. | To improve something means to make it better. → He studied hard to improve his test scores from the previous year.
@@ -2999,14 +2999,14 @@ talkative - [ˈtɔːkətiv] adj. | When someone is talkative, they talk a lot. �
 tow - [tou] v. | To tow something is to pull it. → The truck was towing a trailer behind it.
 tramp - [træmp] v. | To tramp is to put your feet down in a loud, heavy way as you walk. → The baby tramped across the floor as he was learning to walk.
 alleviate - [əˈliːvieit] v. | To alleviate pain or suffering means to make it less intense or severe. → She needed something to alleviate the pain in her back.
-astrology - [əsˈtrɒlədʒi] n. | Astrology is the study of the stars in the belief that they influence people’s lives. → Jack, who studies astrology, believes that the stars can predict the future.
+astrology - [əsˈtrɒlədʒi] n. | Astrology is the study of the stars in the belief that they influence people's lives. → Jack, who studies astrology, believes that the stars can predict the future.
 differentiate - [difəˈrenʃieit] v. | To differentiate things or people is to show the difference between them. → It was hard to differentiate between the identical twins.
 disrupt - [disˈrʌpt] v. | To disrupt something or someone is to prevent them from working. → The loud crash disrupted the class lecture.
 equation - [iˈkweiʒən] n. | An equation is a math operation to determine the value of something. → I used the Pythagorean theorem to solve the equation.
 err - [əːr] v. | To err means to make a mistake. → The pilot erred in his estimate of the time it would take to make the trip.
 erroneous - [iˈrouniəs] adj. | When something is erroneous, it is incorrect or only partly correct. → The child held the erroneous belief that time machines were real.
 frantic - [ˈfræntik] adj. | If people or things are frantic, they behave in a wild way because they are frightened. → The cat became frantic when I tried to give it a bath.
-hull - [hʌl] n. | The hull of a boat or tank is the main body of it. → Afterthe wreckatsea, the ship's hull was the last part to sink.
+hull - [hʌl] n. | The hull of a boat or tank is the main body of it. → After the wreck at sea, the ship's hull was the last part to sink.
 inadvertent - [inədˈvəːrtənt] adj. | When an action is inadvertent, it is done without realizing what you are doing. → She made an inadvertent error when she knocked over the nail polish.
 improvise - [ˈimprəvaiz] v. | To improvise something is to do it with whatever is available or without planning. → There was no meat for the pizza, so we improvised with what was in the fridge.
 latitude - [ˈlӕtətjuːd] n. | The latitude of a place is its distance from the equator. → The device was able to tell the traveler his exact latitude.
@@ -3023,7 +3023,7 @@ attain - [əˈtein] v. | To attain something means to gain or achieve it, often 
 coexist - [ˈkouigˈzist] v. | To coexist with something means to exist with it in the same time and place. → Our pets coexist at our home with little or no problems.
 conceive - [kənˈsiːv] v. | To conceive something means to be able to imagine or believe it. → The child could not conceive the actual size of the Earth.
 dubious - [ˈdjuːbiəs] adj. | When something or someone is dubious, they are not considered honest. → The police thought that the man's description of the crime was dubious.
-ego - [ˈiːgou] n. | An ego is a person’s sense of their own worth. → Kelly's ego made her think that she was some kind of a superhero.
+ego - [ˈiːgou] n. | An ego is a person's sense of their own worth. → Kelly's ego made her think that she was some kind of a superhero.
 elastic - [iˈlæstik] n. | Elastic is a rubber that stretches when it is pulled. → He attached the elastic bungee to his legs before he jumped off the platform.
 endeavor - [enˈdevər] n. | An endeavor is an attempt to do something, especially something new or original. → The company's new advertising endeavor ended in a horrible failure.
 engrave - [inˈgreiv] v. | To engrave means to cut a design or words into the surface of something. → The couple engraved their names onto the old pine tree.
@@ -3055,10 +3055,10 @@ rouge - [ruːʒ] n. | Rouge is a red powder or cream used as makeup on the cheek
 signify - [ˈsignəfai] v. | To signify means to be a symbol of something. → A red octagon is used to signify to stop.
 strap - [stræp] n. | A strap is a thin long piece of fabric used to fasten, carry, or hold something. → She put the strap of her purse over her shoulder and walked out of the door.
 tangle - [ˈtæŋgəl] n. | A tangle is something or many things twisted together. → The laces of his shoes were in such a tangle that he could not untie them.
-vanity - [ˈvænəti] n. | Vanity is excessive pride or love of one’s own appearance or things one has done. → Her vanity won't allow her to pass a mirror without looking at herself.
+vanity - [ˈvænəti] n. | Vanity is excessive pride or love of one's own appearance or things one has done. → Her vanity won't allow her to pass a mirror without looking at herself.
 vie - [vai] v. | To vie for something means to compete against others for it. → The three boys vied for the prize in the chemistry contest.
 vulgar - [ˈvʌlgər] adj. | If something or someone is vulgar, then they are rude or lacking in style. → Her vulgar behavior got her into trouble with her parents.
-attic - [ˈætik] n. | An attic is a room just below a house’s roof. → There were two windows in their attic.
+attic - [ˈætik] n. | An attic is a room just below a house's roof. → There were two windows in their attic.
 chunk - [tʃʌŋk] n. | A chunk is a thick, solid piece of something. → When they broke open the rock, they saw it was filled with chunks of gold.
 civic - [ˈsivik] adj. | If something is civic, then it is related to a town or city, especially its government. → Most of the important civic buildings are located downtown.
 descent - [diˈsent] n. | A descent is a movement downwards. → During the space shuttle's descent, the Earth became larger and larger.
@@ -3083,7 +3083,7 @@ apologetic - [əˌpɒləˈdʒetik] adj. | If someone is apologetic, they are sor
 benign - [biˈnain] adj. | If something or someone is benign, they do not hurt anyone. → Many spiders look scary, but most are actually benign.
 char - [tʃɑːr] v. | To char means to burn something so that it turns black. → While Frank went inside to get the mustard, he accidentally charred the hotdogs.
 clarify - [ˈklærəfai] v. | To clarify means to make something easier to understand by explaining it. → Drew tried to clarify all the functions of Michelle's new computer.
-dogged - [ˈdɔ(:)gid] adj. | When someone’s actions are dogged, they try hard to continue something. → Her dad bought her a new jacket after her dogged requests for one.
+dogged - [ˈdɔ(:)gid] adj. | When someone's actions are dogged, they try hard to continue something. → Her dad bought her a new jacket after her dogged requests for one.
 distress - [disˈtres] n. | Distress is the feeling of being upset or worried. → Failing a class caused the student a lot of distress.
 ensue - [inˈsuː] v. | To ensue means to happen after something. → After a few minutes of lightening, thunder ensued.
 gasp - [gæsp] v. | To gasp means to make a noise by quickly breathing in when surprised. → John always gasps when watching a scary movie.
@@ -3119,7 +3119,7 @@ theorize - [ˈθi:əraiz] v. | To theorize means to develop ideas about somethin
 verify - [ˈverəfai] v. | To verify means to find out if something is true. → Julian called the movie theater to verify that the movie started at nine.
 vigorous - [ˈvigərəs] adj. | If something or someone is vigorous, they use a lot of energy. → Henry uses vigorous exercise to keep himself in shape.
 altar - [ˈɔ:ltər] n. | An altar is a table used in churches. → The altar had many lit candles on it.
-arthritis - [ɑːrˈθraitis] n. | Arthritis is an illness causing pain and swelling in a person’s joints. → Agatha couldn't play the piano anymore because of her arthritis.
+arthritis - [ɑːrˈθraitis] n. | Arthritis is an illness causing pain and swelling in a person's joints. → Agatha couldn't play the piano anymore because of her arthritis.
 botany - [ˈbɒtəni] n. | Botany is the study of plants. → Gardens are the best places for botany.
 credible - [ˈkredəbəl] adj. | If something or someone is credible, they can be believed or trusted. → Dick gave a credible reason for being late and didn't get in any trouble.
 deceased - [diˈsiːst] adj. | If someone is deceased, they are dead. → We visited the graves of our deceased grandparents.
@@ -3164,7 +3164,7 @@ elusive - [iˈluːsiv] adj. | If something or someone is elusive, they are hard 
 forage - [ˈfɔ:ridʒ] v. | To forage means to look around for food. → Many animals hide food in the fall since little can be foraged in winter.
 impede - [imˈpiːd] v. | To impede something means to keep it from moving or going forward. → The barrier impeded our ability to get closer to the building.
 induce - [inˈdjuːs] v. | To induce something means to make it happen. → Running without good shoes may induce leg pain.
-inseparable - [inˈsepərəbəl] adj. | If two things are inseparable, they can’t be separated. → Denise and Diana have been inseparable since they first met.
+inseparable - [inˈsepərəbəl] adj. | If two things are inseparable, they can't be separated. → Denise and Diana have been inseparable since they first met.
 invalid - [ˈinvælid] adj. | If something is invalid, it is not correct. → The way to winning debates is to avoid invalid arguments.
 magnify - [ˈmægnəfai] v. | To magnify something means to make it look bigger than it really is. → Astronomers use telescopes to magnify far-away stars.
 mainstream - [ˈmeinstriːm] n. | The mainstream is a group of ideas that are considered normal and accepted. → Before punk rock music became part of the mainstream, only a few people liked it.
@@ -3205,7 +3205,7 @@ commodity - [kəˈmɒdəti] n. | A commodity is something that can be bought or 
 conquest - [ˈkɒŋkwest] n. | A conquest is an event by which one country takes over another country. → After the conquest, the people of the small city had no freedom.
 disclose - [disˈklouz] v. | To disclose something means to tell it to someone else. → John came home late, so he had to disclose his activities to his wife.
 dynamics - [daiˈnæmiks] n. | The dynamics of a situation are the way that parts of it affect each other. → A good psychologist needs to know a lot about the dynamics of brain disorders.
-enroll - [enˈroul] v. | To enroll in something is to put one’s name on a list as a member of a group. → The students had to enroll in the class one semester in advance.
+enroll - [enˈroul] v. | To enroll in something is to put one's name on a list as a member of a group. → The students had to enroll in the class one semester in advance.
 envious - [ˈenviəs] adj. | When someone is envious, they want something that another person has. → They were envious of their neighbor's front yard.
 euphoria - [juːˈfɔːriə] n. | Euphoria is a feeling of extreme happiness. → The athlete felt euphoria after he won the important game.
 festive - [ˈfestiv] adj. | When something is festive, it is happy and related to a party or celebration. → Dean's favorite part of Christmas is the festive clothing that people wear.
@@ -3234,7 +3234,7 @@ mound - [maund] n. | A mound of something is a large pile of it. → There was a
 numb - [nʌm] adj. | When a body part is numb, it does not have any feeling. → After holding my hand under the icy water, my fingers went numb.
 reckless - [ˈreklis] adj. | When people are reckless, they act in an unsafe way. → The reckless driver posed a threat to everyone else on the road.
 slate - [sleit] n. | Slate is a dark grey rock that can easily be split into layers. → The roof of the church was made of slate.
-stool - [stuːl] n. | A stool is a seat with legs but no support for a person’s arms and back. → I don't find stools very comfortable to sit on.
+stool - [stuːl] n. | A stool is a seat with legs but no support for a person's arms and back. → I don't find stools very comfortable to sit on.
 testament - [ˈtestəmənt] n. | A testament to something shows that it exists or is true. → The beautiful performance was a testament to the singer's natural talents.
 timber - [ˈtimbə:r] n. | Timber is wood that is used for building houses and making furniture. → Trees in this area are grown specifically to be used for timber.
 valve - [vælv] n. | A valve is a device attached to a pipe that controls the flow of liquid or air. → The mechanic removed the dirt to clear the engine valve.
@@ -3269,7 +3269,7 @@ hesitant - [ˈhezətənt] adj. | If someone is hesitant, then they are not sure 
 lush - [lʌʃ] adj. | If something is lush, then it is full of a variety of large, healthy plants. → The lush jungle was filled with plants, trees, and vines.
 marrow - [ˈmærou] n. | Marrow is the soft substance in the center of bones. → Dissolved marrow is a common ingredient in soups.
 outfit - [ˈautfit] n. | An outfit is a set of clothes worn together, often for a certain job or event. → Kelly's new outfit made her look so glamourous.
-paw - [pɔ:] n. | A paw is an animal’s foot that has claws or soft bottoms. → The kitten cleaned its paws with its tongue.
+paw - [pɔ:] n. | A paw is an animal's foot that has claws or soft bottoms. → The kitten cleaned its paws with its tongue.
 quiver - [ˈkwivər] v. | To quiver means to tremble or shake. → The flame on the candle quivered whenever someone opened or closed a door.
 splendid - [ˈsplendid] adj. | If something or someone is splendid, then they are very good. → From his head down to his shoes, his clothes looked splendid.
 stray - [strei] v. | To stray means to go in a wrong direction and often become lost. → He found himself lost because he had strayed from the tour group.
@@ -3284,11 +3284,11 @@ compassionate - [kəmˈpæʃənit] adj. | When people are compassionate, they fe
 contaminate - [kənˈtæməneit] v. | To contaminate something means to put dirty or harmful chemicals into it. → The lake was contaminated when pollutants entered into the water.
 deficiency - [diˈfiʃənsi] n. | A deficiency is a lack of something, especially something that is needed. → Your snack has a deficiency of any real nutrients.
 epidemic - [ˌepəˈdemik] n. | An epidemic is an outbreak of a disease that spreads quickly. → It was difficult to stop the flu epidemic.
-hazard - [ˈhæzərd] n. | A hazard is something that could be dangerous to a person’s health or safety. → Smoking cigarettes poses many health hazards.
+hazard - [ˈhæzərd] n. | A hazard is something that could be dangerous to a person's health or safety. → Smoking cigarettes poses many health hazards.
 imperative - [imˈperətiv] adj. | When something is imperative, it is extremely important and must be done. → It was imperative for him to find a job.
 intestines - [inˈtestinz] n. | Intestines are tubes through which food passes after it leaves the stomach. → Whatever you eat goes into your intestines.
 manifest - [ˈmӕnəfest] v. | To manifest means to make something visible or obvious. → The holiday season manifested joy in the children.
-metabolic - [ˌmetəˈbɒlik] adj. | When something is metabolic, it relates to a person’s or animal’s metabolism. → People who have a low metabolic rate will gain weight.
+metabolic - [ˌmetəˈbɒlik] adj. | When something is metabolic, it relates to a person's or animal's metabolism. → People who have a low metabolic rate will gain weight.
 overcrowded - [ˌouvərˈkraudid] adj. | When a place is overcrowded, it has too many people or things in it. → The lobby was overcrowded with people.
 paramount - [ˈpærəmaunt] adj. | When something is paramount, it is more important than anything else. → The safety of passengers must be paramount when designing a car.
 practitioner - [prækˈtiʃənər] n. | A practitioner is a doctor. → She made an appointment with the practitioner to treat her cough.
@@ -3299,7 +3299,7 @@ upgrade - [ˈʌpgreid] v. | To upgrade something means to improve it or make it 
 viable - [ˈvaiəbəl] adj. | When something is viable, it is capable of doing what it is intended to do. → Her method of solving the math problem seemed viable.
 voluntary - [ˈvɒləntəri] adj. | When something is voluntary, it is done by choice but is not required. → Many people attended the voluntary boat safety class.
 amid - [əˈmid] prep. | If something is amid something else, then it is in the middle of it. → The bee was busily flying amid the flowers in the garden.
-backstage - [ˈbækˈsteidʒ] adv. | If something happens backstage, it occurs behind a theater’s stage. → After the show, the director went backstage and thanked the actors.
+backstage - [ˈbækˈsteidʒ] adv. | If something happens backstage, it occurs behind a theater's stage. → After the show, the director went backstage and thanked the actors.
 billionaire - [biljəˈnɛər] n. | A billionaire is someone who has at least one billion dollars. → The sale of his inventions made the inventor a billionaire.
 brute - [bruːt] n. | A brute is someone who behaves or looks like a violent animal. → My older brother can act like a brute when he doesn't get his way.
 clumsy - [ˈklʌmzi] adj. | If someone is clumsy, then they are awkward in handling things. → The businessman was clumsy and dropped his work files.
@@ -3358,7 +3358,7 @@ profile - [ˈproufail] n. | A profile is an outline of a face, usually as seen f
 vivacious - [viˈveiʃəs] adj. | If someone is vivacious, they are talkative and cheerful. → Everyone at the party was very vivacious and having a good time.
 winding - [ˈwaindiŋ] adj. | If something is winding, then it follows a twisting course. → The winding river turned and looped around the bases of the hills.
 zip - [zip] v. | To zip something means to close it with a zipper. → She zipped her backpack closed after putting her books inside it.
-airway - [ˈɛərwei] n. | An airway is the passage by which air reaches a person’s lungs. → Since he was sick, mucus would occasionally get stuck in his airway.
+airway - [ˈɛərwei] n. | An airway is the passage by which air reaches a person's lungs. → Since he was sick, mucus would occasionally get stuck in his airway.
 Almighty - [ɔːlˈmaiti] n. | The Almighty is a name for a god in a religion. → Before eating, they thanked the Almighty for their food.
 advent - [ˈædvənt] n. | An advent is the arrival or beginning of an important person, thing, or event. → During the advent of radio, very few programs actually played music.
 constellation - [ˌkɒnstəˈleiʃən] n. | A constellation is a group of stars with a recognizable shape. → That constellation in the shape of a square is named after a flying horse.
@@ -3369,7 +3369,7 @@ invoke - [inˈvouk] v. | To invoke something is to mention it to support an argu
 lunar - [ˈluːnər] adj. | If something is lunar, then it is related to the moon. → During a lunar eclipse, Earth's shadow darkens the moon's surface.
 novelty - [ˈnɒvəlti] n. | A novelty is something that is new, original, or strange. → Ice cream was a novelty for him since he rarely had any.
 outmoded - [ˌautˈmoudid] adj. | If something is outmoded, then it is no longer in fashion or use. → Black and white television sets are outmoded.
-personalize - [ˈpəːrsənəlaiz] v. | To personalize something means to design it to meet a person’s unique needs. → He personalized the woman's exercises to give her a better workout.
+personalize - [ˈpəːrsənəlaiz] v. | To personalize something means to design it to meet a person's unique needs. → He personalized the woman's exercises to give her a better workout.
 pertain - [pəːrˈtein] v. | To pertain to something means to be related or connected to it. → All of the lawyer's questions pertained to events around the night of the crime.
 primal - [ˈpraiməl] adj. | If something is primal, then it is very basic or related to the origin of something. → Cooking the food over the camp fire felt like a primal way of making a meal.
 psychiatric - [ˌsaikiˈætrik] adj. | If something is psychiatric, then it is related to mental illness or its treatment. → The doctor said the patient might have a psychiatric problem.
@@ -3409,7 +3409,7 @@ disseminate - [diˈseməneit] v. | To disseminate information or knowledge means
 flatter - [ˈflætər] v. | To flatter people means to praise them in an effort to please them. → He was just flattering me when he said that my new dress looked gorgeous.
 infamous - [ˈinfəməs] adj. | When someone is infamous, they are well known for something bad. → That news channel is infamous for presenting biased information.
 lame - [leim] adj. | If one is lame, they cannot walk properly due to an injury to the leg or foot. → The terrible accident left many people dead and several others lame.
-limp - [imp] v. | To limp means to walk with difficulty because someone’s leg or foot is hurt. → After the injury, the player limped off of the field.
+limp - [imp] v. | To limp means to walk with difficulty because someone's leg or foot is hurt. → After the injury, the player limped off of the field.
 outburst - [ˈautbəːrst] n. | An outburst is a sudden, strong expression of an emotion. → There was an outburst of cheers when the comedian took the stage.
 pathological - [ˌpæθəˈlɒdʒikəl] adj. | When a behavior is pathological, it is extreme, unacceptable, and uncontrollable. → The pathological liar could not even tell the truth about unimportant matters.
 phenomenal - [fiˈnɒmənl] adj. | When something is phenomenal, it is unusually great. → The child's ability to play the piano is nothing short of phenomenal.
@@ -3417,7 +3417,7 @@ poll - [poul] n. | A poll is a survey in which people give their opinions about 
 remorse - [riˈmɔːrs] n. | Remorse is a strong feeling of sadness and regret. → When I realized what I did, I felt remorse for my actions.
 secrecy - [ˈsiːkrəsi] n. | Secrecy is the behavior of keeping things secret. → The secrecy of the big organization made the government nervous.
 tackle - [ˈtækəl] v. | To tackle something means to deal with it in a determined and efficient way. → Such social problems need to be tackled right away.
-trance - [træns] n. | A trance is a a state where people seem asleep and have no control of themselves. → The woman's powerful eyes often put men in a trance.
+trance - [træns] n. | A trance is a state where people seem asleep and have no control of themselves. → The woman's powerful eyes often put men in a trance.
 coward - [ˈkauərd] n. | A coward is a person who lacks courage to do risky or dangerous things. → A firefighter cannot be a coward. They have to be able to act quickly.
 delete - [diˈliːt] v. | To delete something means to remove or erase written material. → Several lines had been deleted from her speech.
 firsthand - [ˌfəːrstˈhænd] adj. | If something is firsthand, then it is from an original source. → If you want firsthand knowledge, ask someone who saw it.
@@ -3450,7 +3450,7 @@ discord - [ˈdiskɔːrd] n. | Discord is disagreement or fighting between people
 frigid - [ˈfridʒid] adj. | When something is frigid, it is extremely cold. → We decided not to go on the hike because the weather was too frigid.
 generate - [ˈdʒenəreit] v. | To generate something means to cause it to develop or begin. → The mayor promised to generate new jobs and programs to help the poor.
 glacial - [ˈgleiʃəl] adj. | When something is glacial, it relates to large masses of ice that move slowly. → Penguins thrive in the glacial regions of Antarctica.
-interchange - [ˌintərˈtʃeindʒ] n. | An interchange of ideas between people is a discussion of each person’s idea. → There was an interchange of ideas between the groups.
+interchange - [ˌintərˈtʃeindʒ] n. | An interchange of ideas between people is a discussion of each person's idea. → There was an interchange of ideas between the groups.
 locker - [ˈlɒkər] n. | A locker is a small cabinet with a lock where people store their possessions. → I keep my school books in my locker.
 multicultural - [ˌmʌltiˈkʌltʃərəl] adj. | When something is multicultural, it relates to many different cultures. → Everyone was welcomed to attend the multicultural celebration.
 omission - [ouˈmiʃən] n. | An omission is something that has been left out or not done. → Mike was upset because of the omission of his name during the ceremony.
@@ -3473,7 +3473,7 @@ penalize - [ˈpiːnəlaiz] v. | To penalize someone means to punish him or her. 
 petroleum - [piˈtrouliəm] n. | Petroleum is a liquid natural resource from which many fuels are made. → The petroleum at that factory is used to make gasoline.
 prototype - [ˈproutətaip] n. | A prototype is a new machine that is not ready to be made in large quantities. → He introduced his prototype to the motorcycle company.
 scrap - [skræp] n. | A scrap of something is a small amount of it. → Chris liked to use many scraps of paper when thinking up ideas.
-sector - [ˈsektə:r] n. | A sector is a part of a country’s economy in a specific type of industry. → We learned about just a few of the factories within the manufacturing sector.
+sector - [ˈsektə:r] n. | A sector is a part of a country's economy in a specific type of industry. → We learned about just a few of the factories within the manufacturing sector.
 subscribe - [səbˈskraib] v. | To subscribe to something is to agree or to concur with it. → She subscribed to the view that musical education should be kept in schools.
 subsist - [səbˈsist] v. | To subsist means to have the food, water, and money needed to stay alive. → Some people are forced to subsist on only a few dollars a month.
 suspend - [səsˈpend] v. | To suspend something means to delay or stop it from happening for a while. → The oil company suspended production until it was sure the factory was safe.
@@ -3501,7 +3501,7 @@ vine - [vain] n. | A vine is a plant that has long, twisting stems and climbs up
 constrain - [kənˈstrein] v. | To constrain something means to limit its development. → Jim cannot join us because he is constrained by previous plans.
 depot - [ˈdi:pou] n. | A depot is a bus or train station. → He waited for his mother to arrive at the depot.
 emulate - [ˈemjəleit] v. | To emulate people means to imitate them because they are greatly admired. → As a small boy, he always tried to emulate his big brother.
-forefinger - [ˈfɔːrfiŋgər] n. | The forefinger is the finger between one’s thumb and middle finger. → He shouted, “ There it is!” and pointed with his forefinger.
+forefinger - [ˈfɔːrfiŋgər] n. | The forefinger is the finger between one's thumb and middle finger. → He shouted, “ There it is!” and pointed with his forefinger.
 guts - [gʌts] n. | The guts are all the organs inside a person or animal. → The doctor can tell you every process that happens in one's guts.
 inherent - [inˈhiərənt] adj. | When something is inherent, it is a natural part of something else. → Sweating is an inherent bodily function when exercising.
 intimidate - [inˈtimədeit] v. | To intimidate means to frighten others. → My dad intimidates my friends whenever they visit.
@@ -3511,17 +3511,17 @@ nope - [noup] adv. | Nope is an informal way of saying “ no.” → He asked i
 prod - [prɒd] v. | To prod means to push someone or something with a finger or pointed object. → The bully prodded me in the chest with his finger.
 ransom - [ˈrænsəm] n. | A ransom is a sum of money paid to a kidnapper to set the person free. → He kidnapped the prince and demanded $1 million as ransom.
 restrain - [risˈtrein] v. | To restrain someone or something means to use physical strength to stop them. → Mike restrained Allen from reaching the door.
-saliva - [səˈlaivə] n. | Saliva is the watery liquid in people’s mouths that helps in digestion. → The baby could not keep the saliva from dripping out of its mouth.
-spit - [spit] v. | To spit means to force liquid from one’s mouth. → He emerged from the pool and spit water from his mouth.
+saliva - [səˈlaivə] n. | Saliva is the watery liquid in people's mouths that helps in digestion. → The baby could not keep the saliva from dripping out of its mouth.
+spit - [spit] v. | To spit means to force liquid from one's mouth. → He emerged from the pool and spit water from his mouth.
 sprint - [sprint] v. | To sprint means to run very fast over a short distance. → The kids didn't want to be late to class, so they sprinted to the bus stop.
 stunt - [stʌnt] n. | A stunt is something that is done in order to get attention or publicity. → The man jumped over the cars as a promotional stunt.
 tolerant - [ˈtɒlərənt] adj. | When people are tolerant, they are approved of because they accept others. → The tolerant leader thought that everyone was equal regardless of race.
-vampire - [ˈvæmpaiər] n. | A vampire is a fictional monster that sleeps in a coffin and sucks people’s blood. → The vampire snuck up on the woman and bit her in the neck.
-yawn - [jɔːn] v. | To yawn means to open one’s mouth wide and breathe in air. → The child yawned and stretched her arms before bed for the night.
+vampire - [ˈvæmpaiər] n. | A vampire is a fictional monster that sleeps in a coffin and sucks people's blood. → The vampire snuck up on the woman and bit her in the neck.
+yawn - [jɔːn] v. | To yawn means to open one's mouth wide and breathe in air. → The child yawned and stretched her arms before bed for the night.
 analogy - [əˈnælədʒi] n. | An analogy is a connection made between things to show that they are similar. → The doctor made an analogy between the human heart and a water pump.
 ancestry - [ˈænsestri] n. | A person's ancestry is the series of people from whom a person descended. → We studied our ancestry and found out that we are related to royalty.
 archer - [ˈɑːrtʃər] n. | An archer is a person who uses a bow and arrows. → The expert archer hit the target every time.
-conspiracy - [kənˈspirəsi] n. | A conspiracy is a secret plan made by a group of people to do something illegal. → Some people think that there was a conspiracy to kill American president John Kennedy.<br />
+conspiracy - [kənˈspirəsi] n. | A conspiracy is a secret plan made by a group of people to do something illegal. → Some people think that there was a conspiracy to kill American president John Kennedy.
 deputy - [ˈdepjəti] n. | A deputy is the second-highest-ranking person in a business or government. → While the sheriff was ill, the deputy took over his duties.
 earl - [əːrl] n. | An earl is a nobleman from Britain. → The Earl of Canterbury lived in a huge mansion.
 fragrant - [ˈfreigrənt] adj. | When something is fragrant, it has a pleasant smell. → The girl picked delicious berries and fragrant flowers.
@@ -3531,7 +3531,7 @@ hymn - [him] n. | A hymn is a religious song that often praises a god. → The b
 invert - [inˈvəːrt] v. | To invert something means to turn it upside down. → He inverted the bicycle to make repairs on the wheels.
 prey - [prei] n. | Prey is the animals that are hunted and eaten by another creature. → The lion ran as fast as he could to catch his prey.
 procession - [prəˈseʃən] n. | A procession is a group of people who walk or drive in a line during a public event. → The procession all celebrated when they reached the end.
-prophet - [ˈprɒfit] n. | A prophet is a person chosen by a god to give the god’s message to people. → Harold believed that he was one of the prophets of his god.
+prophet - [ˈprɒfit] n. | A prophet is a person chosen by a god to give the god's message to people. → Harold believed that he was one of the prophets of his god.
 sarcastic - [sɑːrˈkæstik] adj. | When something is sarcastic, it is the opposite of what is actually meant. → She hurt her mother's feelings with her constant sarcastic remarks.
 seasoning - [ˈsiːzəniŋ] n. | Seasoning is a mix of salt, herbs, and spices that improves the taste of food. → This steak tastes bland. Maybe I'll add some seasoning to it.
 sodium - [ˈsoudiəm] n. | Sodium is an element that can be used to make substances such as salt. → Sodium and chloride combine to make table salt.
@@ -3582,7 +3582,7 @@ amber - [ˈæmbər] n. | Amber is a hard, yellowish material that comes from tre
 charcoal - [ˈtʃɑːrkoul] n. | Charcoal is a black material that is used as fuel for fire. → There was burnt charcoal left on the ground from an old fire.
 columnist - [ˈkɒləmnist] n. | A columnist is a writer who creates articles about a particular subject. → The columnist won praise for his articles about life on the farm.
 courteous - [ˈkəːrtiəs] adj. | When someone is courteous, they are polite and respectful. → The mother asked her family to be courteous to their guests.
-credentials - [kriˈdenʃəlz] n. | Credentials are the proof of someone’s experience or ability to do something. → The mechanic hung his credentials on his office wall.
+credentials - [kriˈdenʃəlz] n. | Credentials are the proof of someone's experience or ability to do something. → The mechanic hung his credentials on his office wall.
 cricket - [ˈkrikit] n. | A cricket is an insect that makes loud noises, usually at night. → In the country, we could see the stars and hear the crickets at night.
 delta - [ˈdeltə] n. | A delta is flat area where a river splits into smaller rivers that flow into the sea. → The archeologists found many ancient materials in the delta of the Nile River.
 detergent - [diˈtəːrdʒənt] n. | Detergent is soap that is used to clean clothes or dishes. → My brother added too much detergent to the wash, and bubbles got all over the floor.
